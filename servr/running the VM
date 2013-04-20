@@ -1,0 +1,9 @@
+
+
+$ sudo sh run.sh
+failed to initialize KVM: Device or resource busy
+Back to tcg accelerator.
+/ $ ls
+bin   dev   etc   home  init  proc  root  sys   tmp   var
+/ $ 
+
