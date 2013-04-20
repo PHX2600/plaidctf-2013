@@ -8,4 +8,11 @@ Next important piece IMO is understanding what the usb.data_len actually is.  Ba
 
 I defined usb.data_len == 64 which pulled up all the largest packets with size 128 which are your URB_BULK outs. See packets # 152 + however with these packets they are actually usb.transfer_type == 3 (0x03).
 
+
+::::CMD USED::::
+tshark -r usbdude.pcap-25abb154182cd183b0667ef0bd38577c58ea4e08 -R "usb.transfer_type == 3 && usb.data_len == 64" -T fields -e usb.capdata > filtered_usb_dump
+
+
+
+
 Now I am at trying to figure out how to reassemble these to make sense.
