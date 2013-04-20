@@ -13,5 +13,9 @@ I defined usb.data_len == 64 which pulled up all the largest packets with size 1
 tshark -r usbdude.pcap-25abb154182cd183b0667ef0bd38577c58ea4e08 -R "usb.transfer_type == 3 && usb.data_len == 64" -T fields -e usb.capdata > filtered_usb_dump
 
 
+:::: WIRESHARK FILTER USED ::::
+
+usb.endpoint_number == 0x02 and usb.transfer_type == 3 and usb.capdata
+
 
 Now I am at trying to figure out how to reassemble these to make sense.
