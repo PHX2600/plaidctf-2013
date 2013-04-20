@@ -29,4 +29,9 @@ def encrypt(m, N):
     r = random.randint(2, N-1)
     x = pow(r, 2, N)
     y = x
-    l 
+    l = 0
+    for k in range(0, L):
+        l = l << 1
+        l |= y & 1
+        y = pow(y, 2, N)
+    return (m ^ l, y, L)
