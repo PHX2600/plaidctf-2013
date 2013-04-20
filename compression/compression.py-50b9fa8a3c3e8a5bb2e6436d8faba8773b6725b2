@@ -12,6 +12,9 @@ ENCRYPT_KEY = '0000000000000000000000000000000000000000000000000000000000000000'
 # Character set: lowercase letters and underscore
 PROBLEM_KEY = 'XXXXXXXXXXXXXXXXXXXX'
 
+XXXXXXXXXXXXXXXXXXXX
+crimes_pay_so_much
+
 def encrypt(data, ctr):
     aes = AES.new(ENCRYPT_KEY, AES.MODE_CTR, counter=ctr)
     return aes.encrypt(zlib.compress(data))
