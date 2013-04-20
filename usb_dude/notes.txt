@@ -6,6 +6,6 @@ URB control is 0x02 (usb.transfer_type == 2)
 
 Next important piece IMO is understanding what the usb.data_len actually is.  Based on packets the URB data length values show up as 1,4,7,8,10,13,18,24,28,32,64 blah blah blah.. 
 
-I defined usb.data_len == 64 which pulled up all the largest packets with size 128 which are your URB_BULK outs. See packets # 152 +
+I defined usb.data_len == 64 which pulled up all the largest packets with size 128 which are your URB_BULK outs. See packets # 152 + however with these packets they are actually usb.transfer_type == 3 (0x03).
 
 Now I am at trying to figure out how to reassemble these to make sense.
