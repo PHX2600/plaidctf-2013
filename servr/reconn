@@ -1,0 +1,103 @@
+/proc $ cat version
+Linux version 3.8.7 (ricky@gamma.rzhou.org) (gcc version 4.7.2 20120921 (Red Hat 4.7.2-2) (GCC) ) #35 SMP Fri Apr 19 02:13:47 EDT 2013
+
+/proc $ env
+OLDPWD=/etc
+HOME=/
+TERM=linux
+PWD=/proc
+/proc $ set
+HISTFILE='/.ash_history'
+HOME='/'
+IFS=' 	
+'
+OLDPWD='/etc'
+OPTIND='1'
+PATH='/sbin:/usr/sbin:/bin:/usr/bin'
+PPID='1'
+PS1='\w \$ '
+PS2='> '
+PS4='+ '
+PWD='/proc'
+TERM='linux'
+_='env'
+
+/proc $ ps aux
+PID   USER     TIME   COMMAND
+    1 root       0:01 {init} /bin/sh /init
+    2 root       0:00 [kthreadd]
+    3 root       0:00 [ksoftirqd/0]
+    4 root       0:00 [kworker/0:0]
+    5 root       0:00 [kworker/0:0H]
+    6 root       0:00 [kworker/u:0]
+    7 root       0:00 [kworker/u:0H]
+    8 root       0:00 [migration/0]
+    9 root       0:00 [rcu_bh]
+   10 root       0:00 [rcu_sched]
+   11 root       0:00 [cpuset]
+   12 root       0:00 [khelper]
+   13 root       0:00 [netns]
+   14 root       0:00 [kworker/u:1]
+  326 root       0:00 [bdi-default]
+  328 root       0:00 [kblockd]
+  429 root       0:00 [ata_sff]
+  440 root       0:00 [khubd]
+  449 root       0:00 [md]
+  459 root       0:00 [cfg80211]
+  556 root       0:00 [rpciod]
+  571 root       0:00 [kswapd0]
+  637 root       0:00 [fsnotify_mark]
+  654 root       0:00 [nfsiod]
+  661 root       0:00 [crypto]
+  738 root       0:00 [scsi_eh_0]
+  741 root       0:00 [scsi_eh_1]
+  755 root       0:00 [kworker/0:2]
+  784 root       0:00 [kpsmoused]
+  842 root       0:00 [deferwq]
+  863 root       0:00 udhcpc -R -b -i eth0 -s /etc/udhcpc.script
+  866 root       0:00 [servr_free]
+  867 servr      0:00 sh
+  914 servr      0:00 ps aux
+
+
+/ $ cat /etc/resolv.conf
+nameserver 10.0.2.3
+
+/ $ lsof -i
+867	/bin/busybox	/dev/ttyS0
+867	/bin/busybox	/dev/ttyS0
+867	/bin/busybox	/dev/ttyS0
+867	/bin/busybox	/dev/ttyS0
+
+
+/ $ cat /etc/passwd
+root:x:0:0:root:/root:/bin/sh
+servr:x:1000:1000:servr:/home/servr:/bin/sh
+
+
+/sys/class $ find / -perm -1000 -type d 2>/dev/null 
+/tmp
+/sys/class $ find / -perm -g=s -type f 2>/dev/null
+/sys/class $ find / -perm -u=s -type f 2>/dev/null  
+/sys/class $ 
+
+/sys/class $ find / -writable -type d 2>/dev/null   
+/sys/class $ find / -perm -222 -type d 2>/dev/null  
+/tmp
+/sys/class $ find / -perm -o+w -type d 2>/dev/null 
+/tmp
+
+
+
+
+[  k-rad3 - <=linux 2.6.11 CPL 0 kernel exploit  ]
+[ Discovered Jan 2005 by sd <sd@fucksheep.org> ]
+[ Modified 2005/9 by alert7 <alert7@xfocus.org> ]
+[!Waring!] TODO:use stack > 0xc0000000 
+
+
+
+
+
+
+
