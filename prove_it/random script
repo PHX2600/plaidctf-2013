@@ -1,0 +1,14 @@
+#!/bin/bash
+# nc 174.129.103.33 9001
+md5prefix=$1
+
+while true
+    do
+        md5random=`echo -n $RANDOM | md5sum | awk '{print $1}'`
+
+        md5random=`echo $md5random | cut -c14-32`
+        echo -n $md5prefix$md5random" "
+
+        wget -q -O- http://md5.benramsey.com/md5.php?hash=$md5prefix$md5random | grep -v error |grep string
+        echo ""
+    done
