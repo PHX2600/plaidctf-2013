@@ -20,6 +20,3 @@ for i in range(0, 1000):
 
 	with open("hashes", "a") as myfile:
 		myfile.write(inString)
-
-
-
