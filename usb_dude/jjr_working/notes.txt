@@ -6,6 +6,7 @@ most likely want to put the hex back together, then decompile it as assembly
 
 
 For shits and kicks I grabbed my similar USBasp programmer from www.fischl.de and tried to output avrdude code of a bootloader and fuse burn. Those are here in this directory along with the hex I burnt (just a random arduino bootloader hex)
+Update, we dug out actual avrispmkii instead
 
 Still not familiar with how to pcap MY burn so we can compare, or if someone has one of these or an open source hardware version http://www.adafruit.com/products/708
 
@@ -20,8 +21,10 @@ http://en.wikipedia.org/wiki/Intel_HEX
 
 every line starts with a colon, wonder if avrdude bothers to send them  0x3A
 
-Jeremy capped our atmega hex burn. Note its all ins no outs. Maybe ours doesnt verify in between?
+Jeremy capped our atmega hex burn, here as single_usbmon_mkii_known (all_usbmon_mkii_known in case there was some other usb hub traffic we needed)
 
-Looking in this pcap now to find stuff in our atmega hex
+Looking in this pcap now to find stuff in data atmega hex
+
+if we can reconstruct our hex, we can reconstruct their hex
 
 r29 seems to be the y register high bit, see doc0856.pdf
