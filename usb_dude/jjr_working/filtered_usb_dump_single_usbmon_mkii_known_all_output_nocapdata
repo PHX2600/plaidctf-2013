@@ -1,0 +1,306 @@
+ 17 5.100773000         host -> 6.2          USB 65 URB_BULK out
+ 18 5.101535000          6.2 -> host         USB 64 URB_BULK out
+ 23 5.249432000         host -> 6.2          USB 66 URB_BULK out
+ 24 5.249551000          6.2 -> host         USB 64 URB_BULK out
+ 27 5.251976000         host -> 6.2          USB 66 URB_BULK out
+ 28 5.253592000          6.2 -> host         USB 64 URB_BULK out
+ 31 5.255717000         host -> 6.2          USB 66 URB_BULK out
+ 32 5.257542000          6.2 -> host         USB 64 URB_BULK out
+ 35 5.259774000         host -> 6.2          USB 66 URB_BULK out
+ 36 5.261530000          6.2 -> host         USB 64 URB_BULK out
+ 39 5.263805000         host -> 6.2          USB 66 URB_BULK out
+ 40 5.265532000          6.2 -> host         USB 64 URB_BULK out
+ 43 5.267826000         host -> 6.2          USB 76 URB_BULK out
+ 44 5.269532000          6.2 -> host         USB 64 URB_BULK out
+ 47 5.328093000         host -> 6.2          USB 72 URB_BULK out
+ 48 5.329618000          6.2 -> host         USB 64 URB_BULK out
+ 51 5.331922000         host -> 6.2          USB 72 URB_BULK out
+ 52 5.333533000          6.2 -> host         USB 64 URB_BULK out
+ 55 5.335979000         host -> 6.2          USB 72 URB_BULK out
+ 56 5.337532000          6.2 -> host         USB 64 URB_BULK out
+ 59 5.340019000         host -> 6.2          USB 72 URB_BULK out
+ 60 5.341540000          6.2 -> host         USB 64 URB_BULK out
+ 63 5.343801000         host -> 6.2          USB 72 URB_BULK out
+ 64 5.345536000          6.2 -> host         USB 64 URB_BULK out
+ 67 5.348524000         host -> 6.2          USB 72 URB_BULK out
+ 68 5.349534000          6.2 -> host         USB 64 URB_BULK out
+ 71 5.352999000         host -> 6.2          USB 72 URB_BULK out
+ 72 5.354537000          6.2 -> host         USB 64 URB_BULK out
+ 75 5.356861000         host -> 6.2          USB 72 URB_BULK out
+ 76 5.358537000          6.2 -> host         USB 64 URB_BULK out
+ 79 5.361145000         host -> 6.2          USB 72 URB_BULK out
+ 80 5.362608000          6.2 -> host         USB 64 URB_BULK out
+ 83 5.365881000         host -> 6.2          USB 72 URB_BULK out
+ 84 5.366535000          6.2 -> host         USB 64 URB_BULK out
+ 87 5.368967000         host -> 6.2          USB 72 URB_BULK out
+ 88 5.370532000          6.2 -> host         USB 64 URB_BULK out
+ 91 5.376060000         host -> 6.2          USB 72 URB_BULK out
+ 92 5.377592000          6.2 -> host         USB 64 URB_BULK out
+ 95 5.382526000         host -> 6.2          USB 72 URB_BULK out
+ 96 5.383540000          6.2 -> host         USB 64 URB_BULK out
+ 99 5.385835000         host -> 6.2          USB 72 URB_BULK out
+100 5.387532000          6.2 -> host         USB 64 URB_BULK out
+103 5.389845000         host -> 6.2          USB 72 URB_BULK out
+104 5.391533000          6.2 -> host         USB 64 URB_BULK out
+107 5.393960000         host -> 6.2          USB 72 URB_BULK out
+108 5.395543000          6.2 -> host         USB 64 URB_BULK out
+111 5.398017000         host -> 6.2          USB 71 URB_BULK out
+112 5.399617000          6.2 -> host         USB 64 URB_BULK out
+115 5.412491000         host -> 6.2          USB 76 URB_BULK out
+116 5.413659000          6.2 -> host         USB 64 URB_BULK out
+119 5.474104000         host -> 6.2          USB 69 URB_BULK out
+120 5.474546000          6.2 -> host         USB 64 URB_BULK out
+123 5.476816000         host -> 6.2          USB 128 URB_BULK out
+124 5.478532000          6.2 -> host         USB 64 URB_BULK out
+125 5.478667000         host -> 6.2          USB 128 URB_BULK out
+126 5.480532000          6.2 -> host         USB 64 URB_BULK out
+127 5.480668000         host -> 6.2          USB 74 URB_BULK out
+128 5.482538000          6.2 -> host         USB 64 URB_BULK out
+131 5.501210000         host -> 6.2          USB 128 URB_BULK out
+132 5.502606000          6.2 -> host         USB 64 URB_BULK out
+133 5.502825000         host -> 6.2          USB 128 URB_BULK out
+134 5.504533000          6.2 -> host         USB 64 URB_BULK out
+135 5.504670000         host -> 6.2          USB 74 URB_BULK out
+136 5.506531000          6.2 -> host         USB 64 URB_BULK out
+139 5.525191000         host -> 6.2          USB 128 URB_BULK out
+140 5.526564000          6.2 -> host         USB 64 URB_BULK out
+141 5.526839000         host -> 6.2          USB 128 URB_BULK out
+142 5.528547000          6.2 -> host         USB 64 URB_BULK out
+143 5.528691000         host -> 6.2          USB 74 URB_BULK out
+144 5.530617000          6.2 -> host         USB 64 URB_BULK out
+147 5.549116000         host -> 6.2          USB 128 URB_BULK out
+148 5.550541000          6.2 -> host         USB 64 URB_BULK out
+149 5.550608000         host -> 6.2          USB 128 URB_BULK out
+150 5.552535000          6.2 -> host         USB 64 URB_BULK out
+151 5.552580000         host -> 6.2          USB 74 URB_BULK out
+152 5.554530000          6.2 -> host         USB 64 URB_BULK out
+155 5.572876000         host -> 6.2          USB 128 URB_BULK out
+156 5.574540000          6.2 -> host         USB 64 URB_BULK out
+157 5.574616000         host -> 6.2          USB 128 URB_BULK out
+158 5.576539000          6.2 -> host         USB 64 URB_BULK out
+159 5.576613000         host -> 6.2          USB 74 URB_BULK out
+160 5.578597000          6.2 -> host         USB 64 URB_BULK out
+163 5.596731000         host -> 6.2          USB 128 URB_BULK out
+164 5.598537000          6.2 -> host         USB 64 URB_BULK out
+165 5.598766000         host -> 6.2          USB 128 URB_BULK out
+166 5.600536000          6.2 -> host         USB 64 URB_BULK out
+167 5.600780000         host -> 6.2          USB 74 URB_BULK out
+168 5.602536000          6.2 -> host         USB 64 URB_BULK out
+171 5.620856000         host -> 6.2          USB 128 URB_BULK out
+172 5.622535000          6.2 -> host         USB 64 URB_BULK out
+173 5.622816000         host -> 6.2          USB 128 URB_BULK out
+174 5.624540000          6.2 -> host         USB 64 URB_BULK out
+175 5.624617000         host -> 6.2          USB 74 URB_BULK out
+176 5.626543000          6.2 -> host         USB 64 URB_BULK out
+179 5.646297000         host -> 6.2          USB 128 URB_BULK out
+180 5.646613000          6.2 -> host         USB 64 URB_BULK out
+181 5.646676000         host -> 6.2          USB 128 URB_BULK out
+182 5.648541000          6.2 -> host         USB 64 URB_BULK out
+183 5.648666000         host -> 6.2          USB 74 URB_BULK out
+184 5.650538000          6.2 -> host         USB 64 URB_BULK out
+187 5.668895000         host -> 6.2          USB 128 URB_BULK out
+188 5.670539000          6.2 -> host         USB 64 URB_BULK out
+189 5.670616000         host -> 6.2          USB 128 URB_BULK out
+190 5.672540000          6.2 -> host         USB 64 URB_BULK out
+191 5.672699000         host -> 6.2          USB 74 URB_BULK out
+192 5.674535000          6.2 -> host         USB 64 URB_BULK out
+195 5.692847000         host -> 6.2          USB 128 URB_BULK out
+196 5.694536000          6.2 -> host         USB 64 URB_BULK out
+197 5.694591000         host -> 6.2          USB 128 URB_BULK out
+198 5.696536000          6.2 -> host         USB 64 URB_BULK out
+199 5.696591000         host -> 6.2          USB 74 URB_BULK out
+200 5.698538000          6.2 -> host         USB 64 URB_BULK out
+203 5.716925000         host -> 6.2          USB 128 URB_BULK out
+204 5.718534000          6.2 -> host         USB 64 URB_BULK out
+205 5.718573000         host -> 6.2          USB 128 URB_BULK out
+206 5.720607000          6.2 -> host         USB 64 URB_BULK out
+207 5.720649000         host -> 6.2          USB 74 URB_BULK out
+208 5.722532000          6.2 -> host         USB 64 URB_BULK out
+211 5.741611000         host -> 6.2          USB 128 URB_BULK out
+212 5.742594000          6.2 -> host         USB 64 URB_BULK out
+213 5.742791000         host -> 6.2          USB 128 URB_BULK out
+214 5.744542000          6.2 -> host         USB 64 URB_BULK out
+215 5.744600000         host -> 6.2          USB 74 URB_BULK out
+216 5.746534000          6.2 -> host         USB 64 URB_BULK out
+219 5.767831000         host -> 6.2          USB 128 URB_BULK out
+220 5.768538000          6.2 -> host         USB 64 URB_BULK out
+221 5.769859000         host -> 6.2          USB 128 URB_BULK out
+222 5.770535000          6.2 -> host         USB 64 URB_BULK out
+223 5.770617000         host -> 6.2          USB 74 URB_BULK out
+224 5.772535000          6.2 -> host         USB 64 URB_BULK out
+227 5.794107000         host -> 6.2          USB 128 URB_BULK out
+228 5.794566000          6.2 -> host         USB 64 URB_BULK out
+229 5.794742000         host -> 6.2          USB 128 URB_BULK out
+230 5.796542000          6.2 -> host         USB 64 URB_BULK out
+231 5.796685000         host -> 6.2          USB 74 URB_BULK out
+232 5.798531000          6.2 -> host         USB 64 URB_BULK out
+235 5.818963000         host -> 6.2          USB 128 URB_BULK out
+236 5.820598000          6.2 -> host         USB 64 URB_BULK out
+237 5.820884000         host -> 6.2          USB 128 URB_BULK out
+238 5.822533000          6.2 -> host         USB 64 URB_BULK out
+239 5.822607000         host -> 6.2          USB 74 URB_BULK out
+240 5.824533000          6.2 -> host         USB 64 URB_BULK out
+243 5.842890000         host -> 6.2          USB 69 URB_BULK out
+244 5.844538000          6.2 -> host         USB 64 URB_BULK out
+247 5.847784000         host -> 6.2          USB 122 URB_BULK out
+248 5.849541000          6.2 -> host         USB 64 URB_BULK out
+251 5.857808000         host -> 6.2          USB 69 URB_BULK out
+252 5.858540000          6.2 -> host         USB 64 URB_BULK out
+255 5.861020000         host -> 6.2          USB 68 URB_BULK out
+256 5.862532000          6.2 -> host         USB 64 URB_BULK out
+267 5.912614000         host -> 6.2          USB 68 URB_BULK out
+268 5.913548000          6.2 -> host         USB 64 URB_BULK out
+279 5.963744000         host -> 6.2          USB 68 URB_BULK out
+280 5.964789000          6.2 -> host         USB 64 URB_BULK out
+291 6.015773000         host -> 6.2          USB 68 URB_BULK out
+292 6.016607000          6.2 -> host         USB 64 URB_BULK out
+303 6.083854000         host -> 6.2          USB 68 URB_BULK out
+304 6.084544000          6.2 -> host         USB 64 URB_BULK out
+315 6.151172000         host -> 6.2          USB 68 URB_BULK out
+316 6.151540000          6.2 -> host         USB 64 URB_BULK out
+327 6.204307000         host -> 6.2          USB 68 URB_BULK out
+328 6.204619000          6.2 -> host         USB 64 URB_BULK out
+339 6.260136000         host -> 6.2          USB 68 URB_BULK out
+340 6.260548000          6.2 -> host         USB 64 URB_BULK out
+351 6.320547000         host -> 6.2          USB 68 URB_BULK out
+352 6.321550000          6.2 -> host         USB 64 URB_BULK out
+363 6.388370000         host -> 6.2          USB 68 URB_BULK out
+364 6.388616000          6.2 -> host         USB 64 URB_BULK out
+375 6.439688000         host -> 6.2          USB 68 URB_BULK out
+376 6.440553000          6.2 -> host         USB 64 URB_BULK out
+387 6.493502000         host -> 6.2          USB 68 URB_BULK out
+388 6.494665000          6.2 -> host         USB 64 URB_BULK out
+399 6.557609000         host -> 6.2          USB 68 URB_BULK out
+400 6.558544000          6.2 -> host         USB 64 URB_BULK out
+411 6.608827000         host -> 6.2          USB 68 URB_BULK out
+412 6.609662000          6.2 -> host         USB 64 URB_BULK out
+423 6.672090000         host -> 6.2          USB 68 URB_BULK out
+424 6.672550000          6.2 -> host         USB 64 URB_BULK out
+435 6.738241000         host -> 6.2          USB 68 URB_BULK out
+436 6.738542000          6.2 -> host         USB 64 URB_BULK out
+447 6.789478000         host -> 6.2          USB 68 URB_BULK out
+448 6.789532000          6.2 -> host         USB 64 URB_BULK out
+459 6.840511000         host -> 6.2          USB 68 URB_BULK out
+460 6.841864000          6.2 -> host         USB 64 URB_BULK out
+471 6.891796000         host -> 6.2          USB 68 URB_BULK out
+472 6.892797000          6.2 -> host         USB 64 URB_BULK out
+483 6.943650000         host -> 6.2          USB 68 URB_BULK out
+484 6.944792000          6.2 -> host         USB 64 URB_BULK out
+495 6.998877000         host -> 6.2          USB 68 URB_BULK out
+496 6.999870000          6.2 -> host         USB 64 URB_BULK out
+507 7.050948000         host -> 6.2          USB 68 URB_BULK out
+508 7.051791000          6.2 -> host         USB 64 URB_BULK out
+519 7.106003000         host -> 6.2          USB 68 URB_BULK out
+520 7.106630000          6.2 -> host         USB 64 URB_BULK out
+531 7.157686000         host -> 6.2          USB 68 URB_BULK out
+532 7.158620000          6.2 -> host         USB 64 URB_BULK out
+543 7.235912000         host -> 6.2          USB 68 URB_BULK out
+544 7.236610000          6.2 -> host         USB 64 URB_BULK out
+555 7.292638000         host -> 6.2          USB 68 URB_BULK out
+556 7.293736000          6.2 -> host         USB 64 URB_BULK out
+567 7.347089000         host -> 6.2          USB 68 URB_BULK out
+568 7.347622000          6.2 -> host         USB 64 URB_BULK out
+579 7.398747000         host -> 6.2          USB 68 URB_BULK out
+580 7.399866000          6.2 -> host         USB 64 URB_BULK out
+591 7.450774000         host -> 6.2          USB 68 URB_BULK out
+592 7.451621000          6.2 -> host         USB 64 URB_BULK out
+603 7.505099000         host -> 6.2          USB 68 URB_BULK out
+604 7.505624000          6.2 -> host         USB 64 URB_BULK out
+615 7.556690000         host -> 6.2          USB 68 URB_BULK out
+616 7.557892000          6.2 -> host         USB 64 URB_BULK out
+627 7.607890000         host -> 6.2          USB 68 URB_BULK out
+628 7.608866000          6.2 -> host         USB 64 URB_BULK out
+639 7.664708000         host -> 6.2          USB 68 URB_BULK out
+640 7.665607000          6.2 -> host         USB 64 URB_BULK out
+651 7.729466000         host -> 6.2          USB 68 URB_BULK out
+652 7.730623000          6.2 -> host         USB 64 URB_BULK out
+663 7.784275000         host -> 6.2          USB 68 URB_BULK out
+664 7.784619000          6.2 -> host         USB 64 URB_BULK out
+675 7.846568000         host -> 6.2          USB 68 URB_BULK out
+676 7.847742000          6.2 -> host         USB 64 URB_BULK out
+687 7.897550000         host -> 6.2          USB 68 URB_BULK out
+688 7.898621000          6.2 -> host         USB 64 URB_BULK out
+699 7.948836000         host -> 6.2          USB 68 URB_BULK out
+700 7.949866000          6.2 -> host         USB 64 URB_BULK out
+711 8.000863000         host -> 6.2          USB 68 URB_BULK out
+712 8.001858000          6.2 -> host         USB 64 URB_BULK out
+723 8.052837000         host -> 6.2          USB 68 URB_BULK out
+724 8.053856000          6.2 -> host         USB 64 URB_BULK out
+735 8.115948000         host -> 6.2          USB 68 URB_BULK out
+736 8.116863000          6.2 -> host         USB 64 URB_BULK out
+747 8.182779000         host -> 6.2          USB 68 URB_BULK out
+748 8.183620000          6.2 -> host         USB 64 URB_BULK out
+759 8.254758000         host -> 6.2          USB 68 URB_BULK out
+760 8.255619000          6.2 -> host         USB 64 URB_BULK out
+771 8.338602000         host -> 6.2          USB 68 URB_BULK out
+772 8.339742000          6.2 -> host         USB 64 URB_BULK out
+783 8.389705000         host -> 6.2          USB 68 URB_BULK out
+784 8.390610000          6.2 -> host         USB 64 URB_BULK out
+795 8.450673000         host -> 6.2          USB 68 URB_BULK out
+796 8.451739000          6.2 -> host         USB 64 URB_BULK out
+807 8.507494000         host -> 6.2          USB 68 URB_BULK out
+808 8.508862000          6.2 -> host         USB 64 URB_BULK out
+819 8.560757000         host -> 6.2          USB 68 URB_BULK out
+820 8.561626000          6.2 -> host         USB 64 URB_BULK out
+831 8.622131000         host -> 6.2          USB 68 URB_BULK out
+832 8.622620000          6.2 -> host         USB 64 URB_BULK out
+843 8.692400000         host -> 6.2          USB 68 URB_BULK out
+844 8.692552000          6.2 -> host         USB 64 URB_BULK out
+855 8.756388000         host -> 6.2          USB 68 URB_BULK out
+856 8.756549000          6.2 -> host         USB 64 URB_BULK out
+867 8.813935000         host -> 6.2          USB 68 URB_BULK out
+868 8.814616000          6.2 -> host         USB 64 URB_BULK out
+879 8.875836000         host -> 6.2          USB 68 URB_BULK out
+880 8.876628000          6.2 -> host         USB 64 URB_BULK out
+891 8.928771000         host -> 6.2          USB 68 URB_BULK out
+892 8.929739000          6.2 -> host         USB 64 URB_BULK out
+903 8.980813000         host -> 6.2          USB 68 URB_BULK out
+904 8.981674000          6.2 -> host         USB 64 URB_BULK out
+915 9.032730000         host -> 6.2          USB 68 URB_BULK out
+916 9.033869000          6.2 -> host         USB 64 URB_BULK out
+927 9.083656000         host -> 6.2          USB 68 URB_BULK out
+928 9.084864000          6.2 -> host         USB 64 URB_BULK out
+939 9.134772000         host -> 6.2          USB 68 URB_BULK out
+940 9.135672000          6.2 -> host         USB 64 URB_BULK out
+951 9.190204000         host -> 6.2          USB 68 URB_BULK out
+952 9.190737000          6.2 -> host         USB 64 URB_BULK out
+963 9.263373000         host -> 6.2          USB 68 URB_BULK out
+964 9.263545000          6.2 -> host         USB 64 URB_BULK out
+975 9.314667000         host -> 6.2          USB 68 URB_BULK out
+976 9.315610000          6.2 -> host         USB 64 URB_BULK out
+987 9.365715000         host -> 6.2          USB 68 URB_BULK out
+988 9.366623000          6.2 -> host         USB 64 URB_BULK out
+999 9.416731000         host -> 6.2          USB 68 URB_BULK out
+1000 9.417866000          6.2 -> host         USB 64 URB_BULK out
+1011 9.467813000         host -> 6.2          USB 68 URB_BULK out
+1012 9.468668000          6.2 -> host         USB 64 URB_BULK out
+1019 9.512131000         host -> 6.2          USB 72 URB_BULK out
+1020 9.512618000          6.2 -> host         USB 64 URB_BULK out
+1023 9.517417000         host -> 6.2          USB 72 URB_BULK out
+1024 9.518582000          6.2 -> host         USB 64 URB_BULK out
+1027 9.521008000         host -> 6.2          USB 72 URB_BULK out
+1028 9.522606000          6.2 -> host         USB 64 URB_BULK out
+1031 9.525010000         host -> 6.2          USB 72 URB_BULK out
+1032 9.526574000          6.2 -> host         USB 64 URB_BULK out
+1035 9.529390000         host -> 6.2          USB 72 URB_BULK out
+1036 9.530570000          6.2 -> host         USB 64 URB_BULK out
+1039 9.535114000         host -> 6.2          USB 72 URB_BULK out
+1040 9.536613000          6.2 -> host         USB 64 URB_BULK out
+1043 9.539596000         host -> 6.2          USB 72 URB_BULK out
+1044 9.540614000          6.2 -> host         USB 64 URB_BULK out
+1047 9.543614000         host -> 6.2          USB 72 URB_BULK out
+1048 9.544615000          6.2 -> host         USB 64 URB_BULK out
+1051 9.547012000         host -> 6.2          USB 72 URB_BULK out
+1052 9.548616000          6.2 -> host         USB 64 URB_BULK out
+1055 9.550940000         host -> 6.2          USB 72 URB_BULK out
+1056 9.552616000          6.2 -> host         USB 64 URB_BULK out
+1059 9.554967000         host -> 6.2          USB 72 URB_BULK out
+1060 9.556622000          6.2 -> host         USB 64 URB_BULK out
+1063 9.558999000         host -> 6.2          USB 72 URB_BULK out
+1064 9.560822000          6.2 -> host         USB 64 URB_BULK out
+1067 9.562859000         host -> 6.2          USB 72 URB_BULK out
+1068 9.564616000          6.2 -> host         USB 64 URB_BULK out
+1071 9.567842000         host -> 6.2          USB 72 URB_BULK out
+1072 9.568606000          6.2 -> host         USB 64 URB_BULK out
+1075 9.572172000         host -> 6.2          USB 67 URB_BULK out
+1076 9.572618000          6.2 -> host         USB 64 URB_BULK out
