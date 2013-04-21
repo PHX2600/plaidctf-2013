@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-import sys,hashlib
+import sys
+import hashlib
 
 file = open('words.list', 'r')
 
