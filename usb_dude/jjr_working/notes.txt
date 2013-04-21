@@ -36,3 +36,37 @@ Now were finding our data to be way less formatted than wed like
 
 with verbose output avrdude spit our hex back out at us, and they're actually changing it, grouping 2 lines up into one x20 length line...
 
+
+
+
+
+1d:04:04:00:30:00:00:00  --request for top bytes of device signature?
+1d:00:00:30:00:1e:00      --response 1e
+1d:04:04:00:30:00:01:00   --request for middle bytes of device signature?
+1d:00:00:30:00:94:00      --response 94
+1d:04:04:00:30:00:02:00   --request for bottom bytes of device signature?
+1d:00:00:30:00:06:00      --response 06
+
+
+
+1d:04:04:00:30:00:00:00
+1d:00:00:30:00:1e:00    --1e
+1d:04:04:00:30:00:01:00
+1d:00:00:30:00:93:00    --93
+1d:04:04:00:30:00:02:00
+1d:00:00:30:00:0f:00    --0f
+
+
+Our signature is 0x1e930f !!
+atmega88
+
+
+
+so code start should look like 
+06:00:00:1c:00 
+but isnt in their file 06:00:00:00:00 -- maybe thats its start? no idea why different
+last line is 06:00:00:1f:c0?
+and end is 06:00:00:00:00
+
+
+
