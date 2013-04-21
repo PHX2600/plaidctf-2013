@@ -1,6 +1,6 @@
 usbude i believe is just a reference to avrdude which is used to program avr devices and that this is pretty clearly a packet dump of USB handshaking
 
-So its very likely clearly a hex burn from avrdude using the avr isp mkii programmer
+So its very clearly a hex burn from avrdude using the avr isp mkii programmer, and we see that
 
 most likely want to put the hex back together, then decompile it as assembly
 
