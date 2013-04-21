@@ -65,8 +65,8 @@ atmega88
 so code start should look like 
 06:00:00:1c:00 
 but isnt in their file 06:00:00:00:00 -- maybe thats its start? no idea why different
-last line is 06:00:00:1f:c0?
-and end is 06:00:00:00:00
+I think 06:00:00:1f:c0 is last line of data incoming and 
+06:00:00:00:00 is done.
 
 
 
