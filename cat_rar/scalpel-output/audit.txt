@@ -1,0 +1,120 @@
+
+Scalpel version 1.60 audit file
+Started at Sat Apr 20 19:35:44 2013
+Command line:
+scalpel cat.rar.bin 
+
+Output directory: /home/chris/SparkleShare/plaidctf-2013/cat_rar/scalpel-output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "H="
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+00000103.gzip       106701		NO                6		cat.rar.bin
+00000102.rpm       347417		YES           96214		cat.rar.bin
+00000101.pgp       441744		YES            1887		cat.rar.bin
+00000100.pgp       387712		YES           55919		cat.rar.bin
+00000099.pgp       280828		YES          100000		cat.rar.bin
+00000098.pgp       202566		YES          100000		cat.rar.bin
+00000097.pgp       164558		YES          100000		cat.rar.bin
+00000096.pgp       132608		YES          100000		cat.rar.bin
+00000095.pgp       111190		YES          100000		cat.rar.bin
+00000094.pgp        93358		YES          100000		cat.rar.bin
+00000093.pgp        80950		YES          100000		cat.rar.bin
+00000092.pgp        59974		YES          100000		cat.rar.bin
+00000091.pgp        50150		YES          100000		cat.rar.bin
+00000090.pgp        34303		YES          100000		cat.rar.bin
+00000089.pgp        31638		YES          100000		cat.rar.bin
+00000088.pgp       399985		YES           43646		cat.rar.bin
+00000087.pgp       399136		YES           44495		cat.rar.bin
+00000086.pgp       398401		YES           45230		cat.rar.bin
+00000085.pgp       395128		YES           48503		cat.rar.bin
+00000084.pgp       393049		YES           50582		cat.rar.bin
+00000083.pgp       391249		YES           52382		cat.rar.bin
+00000082.pgp       390961		YES           52670		cat.rar.bin
+00000081.pgp       384769		YES           58862		cat.rar.bin
+00000080.pgp       379633		YES           63998		cat.rar.bin
+00000079.pgp       378313		YES           65318		cat.rar.bin
+00000078.pgp       375529		YES           68102		cat.rar.bin
+00000077.pgp       375385		YES           68246		cat.rar.bin
+00000076.pgp       373561		YES           70070		cat.rar.bin
+00000075.pgp       350384		YES           93247		cat.rar.bin
+00000074.pgp       315100		YES          100000		cat.rar.bin
+00000073.pgp       288276		YES          100000		cat.rar.bin
+00000072.pgp       284988		YES          100000		cat.rar.bin
+00000071.pgp       208055		YES          100000		cat.rar.bin
+00000070.pgp       200516		YES          100000		cat.rar.bin
+00000069.pgp       200020		YES          100000		cat.rar.bin
+00000068.pgp       182414		YES          100000		cat.rar.bin
+00000067.pgp       170567		YES          100000		cat.rar.bin
+00000066.pgp       158861		YES          100000		cat.rar.bin
+00000065.pgp       111855		YES          100000		cat.rar.bin
+00000064.pgp        54815		YES          100000		cat.rar.bin
+00000063.pgp        34320		YES          100000		cat.rar.bin
+00000062.pgp        17511		YES          100000		cat.rar.bin
+00000061.pgp        11140		YES          100000		cat.rar.bin
+00000060.pgp         9228		YES          100000		cat.rar.bin
+00000059.pgp         7584		YES          100000		cat.rar.bin
+00000058.pgp       275549		YES          100000		cat.rar.bin
+00000057.pgp       275500		YES          100000		cat.rar.bin
+00000056.pgp       271605		YES          100000		cat.rar.bin
+00000055.pgp       271367		YES          100000		cat.rar.bin
+00000054.pgp       268282		YES          100000		cat.rar.bin
+00000053.pgp       268217		YES          100000		cat.rar.bin
+00000052.pgp       267626		YES          100000		cat.rar.bin
+00000051.pgp       267304		YES          100000		cat.rar.bin
+00000050.pgp       267074		YES          100000		cat.rar.bin
+00000049.pgp       266425		YES          100000		cat.rar.bin
+00000048.pgp       266395		YES          100000		cat.rar.bin
+00000047.pgp       265657		YES          100000		cat.rar.bin
+00000046.pgp       265585		YES          100000		cat.rar.bin
+00000045.pgp       264375		YES          100000		cat.rar.bin
+00000044.pgp       264351		YES          100000		cat.rar.bin
+00000043.pgp       264327		YES          100000		cat.rar.bin
+00000042.pgp       263103		YES          100000		cat.rar.bin
+00000041.pgp       263044		YES          100000		cat.rar.bin
+00000040.pgp       207799		YES          100000		cat.rar.bin
+00000039.pgp       207763		YES          100000		cat.rar.bin
+00000038.pgp       124517		YES          100000		cat.rar.bin
+00000037.pgp       399601		YES           44030		cat.rar.bin
+00000036.pgp       398449		YES           45182		cat.rar.bin
+00000035.pgp       392977		YES           50654		cat.rar.bin
+00000034.pgp       390640		YES           52991		cat.rar.bin
+00000033.pgp       386752		YES           56879		cat.rar.bin
+00000032.pgp       386536		YES           57095		cat.rar.bin
+00000031.pgp       386488		YES           57143		cat.rar.bin
+00000030.pgp       386161		YES           57470		cat.rar.bin
+00000029.pgp       385936		YES           57695		cat.rar.bin
+00000028.pgp       384289		YES           59342		cat.rar.bin
+00000027.pgp       379297		YES           64334		cat.rar.bin
+00000026.pgp       372433		YES           71198		cat.rar.bin
+00000025.pgp       363940		YES           79691		cat.rar.bin
+00000024.pgp       293628		YES          100000		cat.rar.bin
+00000023.pgp       293420		YES          100000		cat.rar.bin
+00000022.pgp       293348		YES          100000		cat.rar.bin
+00000021.pgp       292740		YES          100000		cat.rar.bin
+00000020.pgp       281988		YES          100000		cat.rar.bin
+00000019.pgp       157828		YES          100000		cat.rar.bin
+00000018.pgp       126566		YES          100000		cat.rar.bin
+00000017.pgp        65941		YES          100000		cat.rar.bin
+00000016.pgp        46803		YES          100000		cat.rar.bin
+00000015.pgp        42275		YES          100000		cat.rar.bin
+00000014.pgp        30898		YES          100000		cat.rar.bin
+00000013.pgp        29906		YES          100000		cat.rar.bin
+00000012.pgp        28925		YES          100000		cat.rar.bin
+00000011.pgp        18171		YES          100000		cat.rar.bin
+00000010.pgp        18146		YES          100000		cat.rar.bin
+00000009.pgp        12388		YES          100000		cat.rar.bin
+00000008.pgp         9240		YES          100000		cat.rar.bin
+00000007.pgp         7920		YES          100000		cat.rar.bin
+00000006.mov       429746		YES           13885		cat.rar.bin
+00000005.mov       415990		YES           27641		cat.rar.bin
+00000004.mov       415586		YES           28045		cat.rar.bin
+00000003.mov       254501		YES          189130		cat.rar.bin
+00000002.mov         6057		YES          437574		cat.rar.bin
+00000001.mov         5958		YES          437673		cat.rar.bin
+00000000.mov         4998		YES          438633		cat.rar.bin
+
+
+Completed at Sat Apr 20 19:35:44 2013
