@@ -1,0 +1,8 @@
+original hint says "if you think r29 stays constant, look up adiw instruction"
+
+but twitter says "Hint for 'usbdude': If you think r29 stays constant, then you're probably using IDA which emits slightly confusing disassembly."
+
+We're not using IDA, so I dont think this helps us at all
+
+
+Still don't know about the string to google. Very likely just meant the AVR ISP MKII String that was in the usb pcap, which along with the name usbdude set off that this was an embedded avr related challenge.
