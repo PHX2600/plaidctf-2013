@@ -19,3 +19,7 @@ intel hex
 http://en.wikipedia.org/wiki/Intel_HEX
 
 every line starts with a colon, wonder if avrdude bothers to send them  0x3A
+
+Jeremy capped our atmega hex burn. Note its all ins no outs. Maybe ours doesnt verify in between?
+
+Looking in this pcap now to find stuff in our atmega hex
