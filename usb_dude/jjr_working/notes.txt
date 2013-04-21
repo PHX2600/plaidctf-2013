@@ -1,3 +1,5 @@
+usbude i believe is just a reference to avrdude which is used to program avr devices and that this is pretty clearly a packet dump of USB handshaking
+
 So its very likely clearly a hex burn from avrdude using the avr isp mkii programmer
 
 most likely want to put the hex back together, then decompile it as assembly
@@ -6,3 +8,10 @@ most likely want to put the hex back together, then decompile it as assembly
 For shits and kicks I grabbed my similar USBasp programmer from www.fischl.de and tried to output avrdude code of a bootloader and fuse burn. Those are here in this directory along with the hex I burnt (just a random arduino bootloader hex)
 
 Still not familiar with how to pcap MY burn so we can compare, or if someone has one of these or an open source hardware version http://www.adafruit.com/products/708
+
+Hrm with usbmon maybe?
+http://omappedia.org/wiki/USB_Sniffing_with_tcpdump
+
+
+Its probably a hex, maybe you can burn an elf from avr studio, but Im guessing they used linux tools not proprietary ones.
+
