@@ -33,4 +33,6 @@ OK were examining the filtered output from pcap, hoping weve filtered all the da
 konshu was filtering only data len 64, but we found we were missing end fragments so we've removed that filter
 Now were finding our data to be way less formatted than wed like
 
-so for some reason avr dude groups 2 x10 long and sends them as one x20 long
+
+with verbose output avrdude spit our hex back out at us, and they're actually changing it, grouping 2 lines up into one x20 length line...
+
