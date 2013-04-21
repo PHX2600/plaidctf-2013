@@ -69,4 +69,12 @@ I think 06:00:00:1f:c0 is last line of data incoming and
 06:00:00:00:00 is done.
 
 
+Created code_manually for our pcap dump, and for theirs
+
+Jeremy is making a python script to massage it
+
+then I can avr-objdump -s -m atmega88 code_manually_atmega168.hex > code_manually_atmega168.hex.dump
+
+
+
 
