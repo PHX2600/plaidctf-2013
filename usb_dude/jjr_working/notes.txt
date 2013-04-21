@@ -1,4 +1,8 @@
 So its very likely clearly a hex burn from avrdude using the avr isp mkii programmer
+
+most likely want to put the hex back together, then decompile it as assembly
+
+
 For shits and kicks I grabbed my similar USBasp programmer from www.fischl.de and tried to output avrdude code of a bootloader and fuse burn. Those are here in this directory along with the hex I burnt (just a random arduino bootloader hex)
 
 Still not familiar with how to pcap MY burn so we can compare, or if someone has one of these or an open source hardware version http://www.adafruit.com/products/708
