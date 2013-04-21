@@ -28,3 +28,8 @@ Looking in this pcap now to find stuff in data atmega hex
 if we can reconstruct our hex, we can reconstruct their hex
 
 r29 seems to be the y register high bit, see doc0856.pdf
+
+OK were examining the filtered output from pcap, hoping weve filtered all the data
+konshu was filtering only data len 64, but we found we were missing end fragments so we've removed that filter
+
+so for some reason avr dude groups 2 x10 long and sends them as one x20 long
