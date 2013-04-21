@@ -211,17 +211,17 @@ Disassembly of section .sec1:
     382e:	5b c0       	rjmp	.+182    	;  0x38e6
     3830:	5a c0       	rjmp	.+180    	;  0x38e6
     3832:	59 c0       	rjmp	.+178    	;  0x38e6
-    3834:	05 01       	movw	r0, r10
-    3836:	09 06       	cpc	r0, r25
+    3834:	05 01       	movw	r0, r10 -- copy r10 to r0
+    3836:	09 06       	cpc	r0, r25 -- compare with carry--result in R
     3838:	a1 01       	movw	r20, r2
-    383a:	05 07       	cpc	r16, r21
-    383c:	19 54       	subi	r17, 0x49	; 73
+    383a:	05 07       	cpc	r16, r21f
+    383c:	19 54       	subi	r17, 0x49	; 73 --r17
     383e:	29 63       	ori	r18, 0x39	; 57
     3840:	15 00       	.word	0x0015	; ????
     3842:	25 01       	movw	r4, r10
     3844:	75 01       	movw	r14, r10
     3846:	95 10       	cpse	r9, r5
-    3848:	81 02       	muls	r24, r17
+    3848:	81 02       	muls	r24, r17 --- R24 used later by Y, multiplication result is in R1 (high byte) and R0 (low byte). , but r24 never used before?
     384a:	c0 09       	sbc	r28, r0
     384c:	02 22       	and	r0, r18
     384e:	00 01       	movw	r0, r0
@@ -239,8 +239,8 @@ Disassembly of section .sec1:
     3866:	07 05       	cpc	r16, r7
     3868:	81 03       	fmuls	r16, r17
     386a:	08 00       	.word	0x0008	; ????
-    386c:	0a 12       	cpse	r0, r26
-    386e:	01 10       	cpse	r0, r1
+    386c:	0a 12       	cpse	r0, r26 -- skip next instruction if equal
+    386e:	01 10       	cpse	r0, r1 -- skip next instruction if equal
     3870:	01 00       	.word	0x0001	; ????
     3872:	00 00       	nop
     3874:	08 c0       	rjmp	.+16     	;  0x3886
@@ -280,14 +280,14 @@ Disassembly of section .sec1:
     38b8:	de bf       	out	0x3e, r29	; 62
     38ba:	cd bf       	out	0x3d, r28	; 61
     38bc:	11 e0       	ldi	r17, 0x01	; 1
-    38be:	a0 e0       	ldi	r26, 0x00	; 0
+    38be:	a0 e0       	ldi	r26, 0x00	; 0 -- load into r26 00
     38c0:	b1 e0       	ldi	r27, 0x01	; 1
     38c2:	e8 e2       	ldi	r30, 0x28	; 40
     38c4:	fb e0       	ldi	r31, 0x0B	; 11
     38c6:	02 c0       	rjmp	.+4      	;  0x38cc
     38c8:	05 90       	lpm	r0, Z+
     38ca:	0d 92       	st	X+, r0
-    38cc:	a4 30       	cpi	r26, 0x04	; 4
+    38cc:	a4 30       	cpi	r26, 0x04	; 4 -- compare r26 with 0x04, result is in R
     38ce:	b1 07       	cpc	r27, r17
     38d0:	d9 f7       	brne	.-10     	;  0x38c8
     38d2:	11 e0       	ldi	r17, 0x01	; 1
@@ -301,7 +301,7 @@ Disassembly of section .sec1:
     38e2:	9f d2       	rcall	.+1342   	;  0x3e22
     38e4:	1f c5       	rjmp	.+2622   	;  0x4324
     38e6:	8c cf       	rjmp	.-232    	;  0x3800
-    38e8:	fc 01       	movw	r30, r24
+    38e8:	fc 01       	movw	r30, r24 -- move r24 to r30
     38ea:	80 81       	ld	r24, Z
     38ec:	80 76       	andi	r24, 0x60	; 96
     38ee:	80 32       	cpi	r24, 0x20	; 32
@@ -385,7 +385,7 @@ Disassembly of section .sec1:
     39a6:	8a e5       	ldi	r24, 0x5A	; 90
     39a8:	80 93 01 01 	sts	0x0101, r24
     39ac:	10 92 04 01 	sts	0x0104, r1
-    39b0:	88 81       	ld	r24, Y
+    39b0:	88 81       	ld	r24, Y -- load r24 with whats in r26 offset by Y?
     39b2:	80 76       	andi	r24, 0x60	; 96
     39b4:	19 f0       	breq	.+6      	;  0x39bc
     39b6:	ce 01       	movw	r24, r28
