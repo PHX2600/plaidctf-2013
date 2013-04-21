@@ -391,9 +391,9 @@ Disassembly of section .sec1:
     39b6:	ce 01       	movw	r24, r28
     39b8:	97 df       	rcall	.-210    	;  0x38e8
     39ba:	7a c0       	rjmp	.+244    	;  0x3ab0
-    39bc:	9a 81       	ldd	r25, Y+2	; 0x02
+    39bc:	9a 81       	ldd	r25, Y+2	; 0x02 -- load r25 with data space loc Y+2, fuck was in Y before?
     39be:	10 92 10 01 	sts	0x0110, r1
-    39c2:	89 81       	ldd	r24, Y+1	; 0x01
+    39c2:	89 81       	ldd	r24, Y+1	; 0x01 -- load r24 with data space loc Y+1
     39c4:	81 11       	cpse	r24, r1
     39c6:	06 c0       	rjmp	.+12     	;  0x39d4
     39c8:	10 92 11 01 	sts	0x0111, r1
@@ -408,7 +408,7 @@ Disassembly of section .sec1:
     39de:	86 30       	cpi	r24, 0x06	; 6
     39e0:	09 f0       	breq	.+2      	;  0x39e4
     39e2:	49 c0       	rjmp	.+146    	;  0x3a76
-    39e4:	8b 81       	ldd	r24, Y+3	; 0x03
+    39e4:	8b 81       	ldd	r24, Y+3	; 0x03 -- load r24 with data space loc Y+3
     39e6:	81 30       	cpi	r24, 0x01	; 1
     39e8:	19 f4       	brne	.+6      	;  0x39f0
     39ea:	8d e6       	ldi	r24, 0x6D	; 109
@@ -493,10 +493,10 @@ Disassembly of section .sec1:
     3aa6:	80 e0       	ldi	r24, 0x00	; 0
     3aa8:	30 93 22 01 	sts	0x0122, r19
     3aac:	20 93 21 01 	sts	0x0121, r18
-    3ab0:	9f 81       	ldd	r25, Y+7	; 0x07
+    3ab0:	9f 81       	ldd	r25, Y+7	; 0x07 -- load r25 with data space loc Y+7
     3ab2:	91 11       	cpse	r25, r1
     3ab4:	04 c0       	rjmp	.+8      	;  0x3abe
-    3ab6:	9e 81       	ldd	r25, Y+6	; 0x06
+    3ab6:	9e 81       	ldd	r25, Y+6	; 0x06 -- load r24 with data space loc Y+6
     3ab8:	98 17       	cp	r25, r24
     3aba:	08 f4       	brcc	.+2      	;  0x3abe
     3abc:	89 2f       	mov	r24, r25
@@ -719,7 +719,7 @@ Disassembly of section .sec1:
     3c94:	2c 3f       	cpi	r18, 0xFC	; 252
     3c96:	c8 f6       	brcc	.-78     	;  0x3c4a
     3c98:	42 27       	eor	r20, r18
-    3c9a:	49 93       	st	Y+, r20
+    3c9a:	49 93       	st	Y+, r20   -- store r20 in Y post increment
     3c9c:	09 b1       	in	r16, 0x09	; 9
     3c9e:	05 70       	andi	r16, 0x05	; 5
     3ca0:	10 27       	eor	r17, r16
@@ -754,17 +754,17 @@ Disassembly of section .sec1:
     3cda:	d0 40       	sbci	r29, 0x00	; 0
     3cdc:	11 e0       	ldi	r17, 0x01	; 1
     3cde:	1c bb       	out	0x1c, r17	; 28
-    3ce0:	08 81       	ld	r16, Y
+    3ce0:	08 81       	ld	r16, Y -- TODO
     3ce2:	03 3c       	cpi	r16, 0xC3	; 195
     3ce4:	09 f1       	breq	.+66     	;  0x3d28
     3ce6:	0b 34       	cpi	r16, 0x4B	; 75
     3ce8:	f9 f0       	breq	.+62     	;  0x3d28
     3cea:	20 91 1e 01 	lds	r18, 0x011E
-    3cee:	19 81       	ldd	r17, Y+1	; 0x01
+    3cee:	19 81       	ldd	r17, Y+1	; 0x01 -- TODO
     3cf0:	11 0f       	add	r17, r17
     3cf2:	12 13       	cpse	r17, r18
     3cf4:	ed cf       	rjmp	.-38     	;  0x3cd0
-    3cf6:	4a 81       	ldd	r20, Y+2	; 0x02
+    3cf6:	4a 81       	ldd	r20, Y+2	; 0x02 TODO
     3cf8:	44 1f       	adc	r20, r20
     3cfa:	09 36       	cpi	r16, 0x69	; 105
     3cfc:	51 f1       	breq	.+84     	;  0x3d52
@@ -875,7 +875,7 @@ Disassembly of section .sec1:
     3de6:	1c 3f       	cpi	r17, 0xFC	; 252
     3de8:	0b b9       	out	0x0b, r16	; 11
     3dea:	b0 f6       	brcc	.-84     	;  0x3d98
-    3dec:	29 91       	ld	r18, Y+
+    3dec:	29 91       	ld	r18, Y+ --  TODO
     3dee:	3a 95       	dec	r19
     3df0:	19 f7       	brne	.-58     	;  0x3db8
     3df2:	0a 7f       	andi	r16, 0xFA	; 250
