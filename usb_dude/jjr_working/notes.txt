@@ -15,3 +15,7 @@ http://omappedia.org/wiki/USB_Sniffing_with_tcpdump
 
 Its probably a hex, maybe you can burn an elf from avr studio, but Im guessing they used linux tools not proprietary ones.
 
+intel hex
+http://en.wikipedia.org/wiki/Intel_HEX
+
+every line starts with a colon, wonder if avrdude bothers to send them  0x3A
