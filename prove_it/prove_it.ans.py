@@ -1,14 +1,20 @@
+#!/usr/bin/python
 import socket
+import sys
 
 host = '174.129.103.33'
 port = 9001
+
+wordListPath = "prove_it.word"
+if(len(sys.argv) > 1):
+    wordListPath = sys.argv[1]
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 sock.connect((host, port))
 data = sock.recv(1024)
 print data
-f = open('prove_it.word', 'r')
+f = open(wordListPath, 'r')
 lines = f.readlines()
 while True:
    data = sock.recv(1024)
