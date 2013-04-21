@@ -385,7 +385,7 @@ Disassembly of section .sec1:
     39a6:	8a e5       	ldi	r24, 0x5A	; 90
     39a8:	80 93 01 01 	sts	0x0101, r24
     39ac:	10 92 04 01 	sts	0x0104, r1
-    39b0:	88 81       	ld	r24, Y -- load r24 with whats in r26 offset by Y?
+    39b0:	88 81       	ld	r24, Y -- load r24 with whats in r2 offset by Y?
     39b2:	80 76       	andi	r24, 0x60	; 96
     39b4:	19 f0       	breq	.+6      	;  0x39bc
     39b6:	ce 01       	movw	r24, r28
