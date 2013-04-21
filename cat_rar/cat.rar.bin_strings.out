@@ -1,0 +1,3392 @@
+/lib64/ld-linux-x86-64.so.2
+jpeg_CreateDecompress
+GCC_3.0
+strlen
+_fini
+rewind
+sscanf
+_ZSt16__ostream_insertIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_PKS3_l
+memset
+fflush
+jpeg_read_coefficients
+_ZSt20__throw_out_of_rangePKc
+__gxx_personality_v0
+ferror
+fclose
+setlocale
+inflateEnd
+_ZNSsC1ERKSsmm
+mcrypt_module_open
+LIBJPEG_6.2
+GLIBCXX_3.4
+_ZSt18_Rb_tree_decrementPKSt18_Rb_tree_node_base
+_ZNSo9_M_insertImEERSoT_
+libmcrypt.so.4
+mhash
+_ZSt28_Rb_tree_rebalance_for_erasePSt18_Rb_tree_node_baseRS_
+_ZSt17__throw_bad_allocv
+mcrypt_enc_get_block_size
+_ZSt9terminatev
+_ZSt18_Rb_tree_decrementPSt18_Rb_tree_node_base
+_ZNSs6appendEPKcm
+_ZSt4cout
+fgetc
+free
+_ZNKSs7compareEPKc
+libstdc++.so.6
+_ZNKSs12find_last_ofEPKcmm
+jpeg_stdio_src
+jpeg_std_error
+ftell
+srand
+__cxa_throw
+tcsetattr
+__libc_start_main
+_Unwind_Resume
+time
+__bss_start
+libmhash.so.2
+getc
+_ZSt4cerr
+__cxa_get_exception_ptr
+sprintf
+putchar
+_ZdlPv
+__cxa_rethrow
+_ZTVN10__cxxabiv120__si_class_type_infoE
+jpeg_CreateCompress
+libz.so.1
+mcrypt_perror
+mdecrypt_generic
+_ZNSsD1Ev
+_ZNKSt5ctypeIcE13_M_widen_initEv
+_Znwm
+printf
+jpeg_write_coefficients
+mcrypt_list_algorithms
+_ZSt16__throw_bad_castv
+__cxa_atexit
+_ZNSt9basic_iosIcSt11char_traitsIcEE5clearESt12_Ios_Iostate
+mcrypt_enc_mode_has_iv
+GLIBCXX_3.4.9
+jpeg_destroy_compress
+gettext
+jpeg_finish_decompress
+uncompress
+jpeg_finish_compress
+strcmp
+mhash_deinit
+_ZSt20__throw_length_errorPKc
+CXXABI_1.3.1
+mhash_keygen_ext
+_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
+_ZSt29_Rb_tree_insert_and_rebalancebPSt18_Rb_tree_node_baseS0_RS_
+_ZNSs6assignEPKcm
+_ZNSt8ios_base4InitC1Ev
+__dynamic_cast
+mcrypt_free_p
+_ZdaPv
+jpeg_destroy_decompress
+pthread_cancel
+memmove
+strcpy
+_edata
+_ZNSs6appendERKSs
+__cxa_free_exception
+fputc
+fputs
+libc.so.6
+_ZNSi3getEv
+vsnprintf
+mcrypt_generic
+libm.so.6
+mhash_get_hash_name
+mcrypt_enc_get_iv_size
+__cxa_begin_catch
+malloc
+mcrypt_enc_get_modes_name
+inflateInit_
+bind_textdomain_codeset
+rand
+_ZNSt15_List_node_base8transferEPS_S0_
+mcrypt_generic_init
+puts
+_ZSt18_Rb_tree_incrementPSt18_Rb_tree_node_base
+mcrypt_generic_deinit
+_ZNSt15_List_node_base4hookEPS_
+_Znam
+__cxa_pure_virtual
+_ZSt3cin
+__cxa_end_catch
+mhash_get_block_size
+mcrypt_list_modes
+mcrypt_module_close
+libgcc_s.so.1
+_ZNSo9_M_insertIbEERSoT_
+feof
+CXXABI_1.3
+inflate
+_ZNSs4_Rep10_M_destroyERKSaIcE
+mcrypt_enc_get_key_size
+ungetc
+stdout
+fopen
+_ZNSs6assignERKSs
+_ZNSs9push_backEc
+exit
+tcgetattr
+jpeg_read_header
+GLIBCXX_3.4.11
+_ZNSsC1EPKcRKSaIcE
+mhash_get_mhash_algo
+_ZNSs4_Rep20_S_empty_rep_storageE
+mcrypt_enc_get_algorithms_name
+stdin
+mcrypt_module_is_block_algorithm
+bindtextdomain
+fwrite
+_end
+_ZSt18_Rb_tree_incrementPKSt18_Rb_tree_node_base
+sqrt
+_ZNSt8ios_base4InitD1Ev
+_ZNSolsEi
+_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+mhash_init
+jpeg_stdio_dest
+mcrypt_module_is_block_algorithm_mode
+__gmon_start__
+_ZNSsC1ERKSs
+GLIBC_2.2.5
+_ZTVN10__cxxabiv117__class_type_infoE
+_Jv_RegisterClasses
+_ZNSs7reserveEm
+jpeg_copy_critical_parameters
+_ZNSs6assignEPKc
+__cxa_allocate_exception
+textdomain
+_ZNSo5flushEv
+_ZNSo3putEc
+compress2
+libjpeg.so.62
+_init
+_ZNSt15_List_node_base6unhookEv
+<S0K
+%@D 
+CqY>V
+_yBw)
+0Uu/
+z>OG
+|-2@
+"Ct@o
+OI#t
+!/N=
+wgejL
+ffff.
+fff.
+fff.
+d$ H
+\$ H
+l$(L
+d$0H
+d$ H
+d$ H
+\$ H
+l$(L
+d$0H
+AUATUSH
+l$@H
+d$0H
+|$0H
+d$ H
+|$ H
+h[]A\A]
+AVAUA
+ATUSH
+D$PH
+D$PH
+D$PH
+l$@H
+D$@H
+D$@H
+D$@H
+D$@H
+t$PH
+t$\H
+|$PH
+[]A\A]A^A_
+\$ H
+l$(L
+d$0H
+\$ H
+l$(L
+d$0H
+\$ H
+l$(L
+d$0H
+\$ H
+l$(L
+d$0H
+\$ H
+l$(L
+d$0H
+\$PH
+l$XL
+d$`L
+l$hL
+t$pH
+l$@H
+|$@H
+t$0H
+d$ H
+fffff.
+t$@L
+t$PL
+\$ H
+|$0H
+t$pL
+t$`L
+AWAVAUATUSH
+[]A\A]A^A_
+l$pE1
+|$pH
+l$PL
+|$`H
+l$@H
+s0E1
+t$0H
+AWAVAUATUH
+|$0A
+T$OH
+|$@H
+T$NL
+D9d$
+X[]A\A]A^A_
+T$MH
+|$@H
+fff.
+AWAVAUATUH
+|$0A
+T$OH
+|$@H
+T$NL
+D9d$
+X[]A\A]A^A_
+T$MH
+|$@H
+ffff.
+ffff.
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+AWAVI
+ATUSH
+d$0H
+|$0H
+H[]A\A]A^A_
+|$ H
+l$(t
+D$>A
+T$ M
+H[]A\A]A^A_
+|$ H
+H9D$ 
+t*H9\$
+AWAVAUI
+([]A\A]A^A_
+ATUS
+[]A\A]A^
+fff.
+ATUSH
+S8H9S@t'1
+0[]A\
+,$tC1
+l$ H
+d$(L
+l$0H
+fffff.
+AVAUATUSH
+ []A\A]A^
+{8H)
+l$@H
+T$OH
+|$ L
+T$NH
+|$0H
+|$ H
+|$@H
+l$`H
+\$XL
+d$hL
+l$pL
+t$xL
+fffff.
+ffffff.
+ffffff.
+O f9
+fffff.
+fffff.
+fffff.
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+raL)
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+fff.
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+raL)
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+fff.
+d$ L
+l$(L
+t$0H
+([]A\A]
+([]A\A]
+ []A\A]A^
+AUATI
+ []A\A]A^
+ffffff.
+AUATI
+ []A\A]A^
+ffffff.
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+ffffff.
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+AVAUATUH
+([]A\A]A^A_
+ffffff.
+;C tvH
+;C u
+fffff.
+ATUSH
+L+ I
+[]A\A]
+E8H9
+E8H9
+E8H9
+AWAVAUI
+ATUSH
+L$,D
+D$ t/L
+C8t;
+8[]A\A]A^A_
+l$ L)
+H;l$
+fffff.
+AWAVAUI
+ATUSH
+L$,D
+D$ t/L
+C8t;
+8[]A\A]A^A_
+l$ L)
+H;l$
+fffff.
+AWAVAUI
+ATUH
+$O9d
+[]A\A]A^A_
+fffff.
+AVAUATUH
+H+8H
+H9P8rFf
+<$L9
+[]A\A]A^
+P8H9U
+[]A\
+fff.
+[]A\
+fff.
+AWAVAUATUH
+T$HH
+|$PL
+T$@H
+H9T$@
+D$$H
+D$0HcD$$H
+D$8H
+T$@L
+T$@H
+H;<$
+l$8D
+d$$L
+H;|$
+H;4$H
+H;<$
+H;|$
+H;|$
+D$(H
+[]A\A]A^A_
+D$@H
+AVAUATUH
+H+8H
+H9P8rFf
+<$L9
+[]A\A]A^
+P8H9U
+fffff.
+\$8H
+l$@L
+d$HL
+l$PH
+l$ H
+fff.
+fff.
+d$ H
+d$ H
+d$ H
+[A\A]A^A_
+d$ H
+fffff.
+d$ 	
+fff.
+d$ 	
+fff.
+\$ H
+l$(L
+\$ H
+l$(L
+d$ H
+fff.
+d$ H
+fff.
+d$ L
+l$(L
+t$0H
+d$ H
+fff.
+AUATUH
+[]A\A]
+d$ H
+fff.
+l$ H
+fff.
+fffff.
+fffff.
+AUATUH
+[]A\A]
+fffff.
+[]A\
+AUATA
+t1E1
+[]A\A]A^
+fffff.
+AUATU
+[]A\A]A^
+fff.
+AUATU
+[]A\A]A^
+fff.
+fffff.
+fffff.
+[]A\
+fff.
+[]A\
+fff.
+AVAUA
+ATUSH
+[]A\A]A^
+fffff.
+L;4$tz
+l$ H
+d$(L
+l$0L
+t$8L
+|$@H
+\$(H
+l$0L
+d$8L
+l$@H
+\$(H
+l$0L
+d$8L
+l$@H
+ATUH
+[]A\A]
+fff.
+AWAVI
+AUATUH
+$E"e
+[]A\A]A^A_
+t$ H
+6D;7H
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+fff.
+AUATUSH
+[]A\A]
+fD9k
+[]A\A]
+AVAUI
+ATUH
+tEE1
+@ >H
+[]A\A]A^
+fffff.
+fffff.
+[]A\A]
+fffff.
+[]A\A]A^A_
+ AUA
+ATUH
+wIE1
+A\A]A^
+l$ H
+H+3I
+4$H)
+fffff.
+fff.
+fff.
+AUATUSH
+[]A\A]
+AUATUSH
+[]A\A]
+CXtZ
+CZtu
+C`teH
+\$8H
+l$@L
+d$HL
+l$PL
+t$XL
+|$`H
+d$ D
+l$!D
+t$"H
+D$ f
+l$ 1
+D$ D
+|$!D
+t$"H
+D$ f
+\$8H
+l$@L
+d$HL
+l$PL
+t$XL
+|$`H
+G BMH
+(tkH
+\$ H
+l$(L
+d$0L
+l$8L
+t$@H
+fffff.
+fff.
+fff.
+\$8H
+l$@L
+d$HL
+l$PH
+AWAVAUATUSH
+L;|$
+8[]A\A]A^A_
+D$ A
+AWAVAUATUSH
+|$@E1
+L9d$
+|$HH
+D$@p
+H9D$
+l$_H
+D$_H
+h[]A\A]A^A_
+L$^H
+l$ H
+D$ p
+D$0A
+AWAVAUATSH
+[A\A]A^A_
+L+:I
+:B v
+t	:F 
+L$0I
+D$8H
+:P v
+|$(L
+:P v
+:N s
+$'M9
+:Z v
+@ f9
+:X v
+B f9
+C f;
+e f)
+$XfE
+:Z v
+A fD9
+D$ f;
+@ f;
+:I9\
+l$ H
+d$(L
+l$0H
+l$ H
+fffff.
+tAv9f
+l$ L
+d$(L
+l$0H
+[]A\
+[]A\
+[]A\
+fffff.
+D$@x
+t$ L
+T$OH
+|$0H
+|$ H
+|$@H
+l$`H
+\$XL
+d$hL
+l$pL
+t$xL
+[]A\
+[]A\
+AUATUSH
+~#H)
+[]A\A]
+[]A\A]
+UUUUUUUUI9
+AVAUI
+ATUH
+[]A\A]L
+ffff.
+C tBH
+[]A\A]A^
+:B A
+ffffff.
+D$ I
+D$(L
+l$ L
+t$(L
+|$0H
+:B @
+ffff.
+:U r
+8P r3
+ []A\
+8P s
+P A:
+$s\H
+\$@H
+l$HL
+d$PH
+B A:
+W H9
+$:P s
+:U r
+8P r3
+ []A\
+8P s
+P A:
+$s\H
+\$@H
+l$HL
+d$PH
+B A:
+W H9
+$:P s
+t	[]A\
+[]A\
+[]A\
+AVAUI
+ATUH
+F t?I
+C t>
+[]A\A]L
+fffff.
+C tBH
+[]A\A]A^
+:B A
+ffffff.
+:U r
+8P r3
+ []A\
+8P s
+P A:
+$s\H
+\$@H
+l$HL
+d$PH
+B A:
+W H9
+$:P s
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+ffffff.
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+ffffff.
+ATUSH
+[]A\A]A^A_
+fff.
+fff.
+AWMc
+AVAUATUSH
+l$PL
+|$8H
+L$ A
+t$(H
+D:"r
+L$8H
+t$ H
+T$Q1
+8D$7u
++H;k
+d$GI
+I;l$
+D$Pf
+x[]A\A]A^A_
+fffff.
+c D	
+d$(H
+l$ L
+l$0H
+AWAVAUI
+|$PH
+l$0H9l$8H
+H;l$8A
+H;l$8u
+D$01
+H;\$8tMH
+H;t$ 
+H;\$8H
+H+t$
+|$0H
+[]A\A]A^A_
+|$0H
+c D	
+d$(H
+l$ L
+l$0H
+d$(L
+l$0H
+d$(L
+l$0H
+ffff.
+{ H9
+fff.
+AUATL
+g@USH
+{@H9
+[]A\A]
+sHH;sP
+([]A\A]
+AWAVI
+AUATUSH
+t$ f
+D$(H
+/M;o
+v(I;v0H
+D$8t}1
+H[]A\A]A^A_
+|$(H
+AUATUSH
+P8H9S
+C@H9CHttH
+C H9C(utH
+S H9S(t
+[]A\A]
+AWAVAUATI
+l$@H
+|$@H
+l$ H
+|$ H
+|$`H
+sHH;sP
+s(H;s0
+[]A\A]A^A_
+fff.
+AWAVAUATI
+l$@H
+|$@H
+l$ H
+|$ H
+|$`H
+sHH;sP
+s(H;s0
+[]A\A]A^A_
+fff.
+fffff.
+l$ L
+t$(L
+|$0H
+|$@L
+AVAUATUH
+T$ H
+L$(H
+|$pK
+H;l$
+D$ H
+L$(H
+8[]A\A]A^A_
+fffff.
+H+3H
+4$H)
+l$ H
+d$(L
+l$0H
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+ffffff.
+ATUH
+[]A\A]
+AVAUL
+o ATUH
+]A\A]A^
+fffff.
+AVE1
+|$ H
+|$ 1
+ []A\A]A^
+|$ H
+AVE1
+|$ H
+|$ 1
+ []A\A]A^
+|$ H
+fffff.
+fffff.
+fffff.
+AWAVAUATUH
+tIE1
+D:l$
+@:l$
+[]A\A]A^A_
+fff.
+,$tC1
+l$ H
+d$(L
+l$0H
+fD;N
+fffff.
+AVAUATA
+[]A\A]A^A_
+fff.
+AWAVAUATUH
+;D$,
+D$ f
+8[]A\A]A^A_
+D$,H
+L$ f
+C8tDH
+@:,7u
+C0r-
+fff.
+fffff.
+fffff.
+fff.
+fff.
+fff.
+fff.
+fff.
+fff.
+`[]A\
+]pH;]xt
+H;]xu
+\$@L
+H;]`H
+`[]A\
+|$(H
+fff.
+\$(H
+l$0L
+d$8L
+l$@L
+t$HL
+|$PH
+\$(H
+l$0L
+d$8L
+l$@L
+t$HL
+|$PH
+AWAVAUI
+ATUH
+|$PH
+l$0H
+T$PL
+D$0H
+D$6f
+|$8H
+|$XH
+|$xH
+[]A\A]A^A_
+]pH;]xt
+H;]xu
+l$p1
+D$pH
+D$vf
+|$xH
+D$PH
+H9T$
+CxE1
+L9t$
+l$0L
+{pH)
+fffff.
+AVAUATU1
+fD;w
+PPA8
+[]A\A]A^A_
+[]A\A]A^A_
+t$ H
+ffffff.
+fffff.
+fff.
+fff.
+ATUH
+|$0L
+\$0H;\$8uG
+H;\$8te
+H;\$8u
+|$0H
+[]A\A]
+|$0H
+fff.
+AWAVAUATI
+[]A\A]A^A_
+fffff.
+AVAUI
+ATUSH
+H9D$
+|$xH
+|$PH
+|$8H
+[]A\A]A^A_
+AVAUI
+ATUSH
+H9D$
+|$xH
+|$PH
+|$8H
+[]A\A]A^A_
+fff.
+fff.
+fff.
+fff.
+[]A\A]
+AUE1
+ATE1
+[]A\A]
+l$ H
+fff.
+l$ H
+fff.
+AVAUI
+[]A\A]A^A_
+fff.
+fff.
+fff.
+fff.
+[]A\A]
+AUE1
+ATE1
+[]A\A]
+l$ H
+fff.
+l$ H
+fff.
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+AWAVAUATI
+L;<$r
+[]A\A]A^A_
+fff.
+/ATA
+[]A\A]A^
+_ I)
+_HE1
+AVAUI
+EHE1
+]A\A]A^
+fD;J
+G H+WHH+G
+cPL+cH
+c L+c
+I;\$
+[]A\
+[]A\
+,$fD
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+,$fD
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+fffff.
+AUATUSH
+D$ H
+H9T$ 
+T$ H
+|$0H
+|$0H
+t$@H
+L$(H
+\$8H
+t$@1
+t$PH
+|$0H
+\$8H
+t$@1
+T$8H
+fD;g
+T$(H9T$ 
+\$PH
+L$81
+D$@H)
+t$`H
+D$`H
+l$pH
+l$hH
+|$`H
+l$@H
+L$81
+|$8H
+|$`H
+L$8H
+l$@J
+[]A\A]A^A_
+D$ H
+L$8H
+ATUSH
+T$8H
+D$ H
+D$@H
+l$PH
+t$@L
+|$@H
+D$ 1
+tmf.
+9l$ I
+h[]A\A]A^A_
+|$@H
+AVAUATUSH
+H;k t
+H;k u
+t`E1
+C H+C
+C H+C
+cxM9
+t5f.
+<$L9
+cHM9
+<$L9
+[]A\A]A^
+[]A\A]A^
+fff.
+AVAUATUH
+E H+E
+D$pH
+D$xH
+\$pH
+D$xH
+t$xL
+d$pM9
+<$L9
+t$pM
+E H+E
+D$PH
+D$XH
+\$`I
+D$`H
+\$PH
+D$XH
+t$XL
+d$PM9
+<$L9
+t$PM
+E H+E
+D$0L
+d$@H
+D$@H
+\$0H
+D$8H
+|$0H
+E H+E
+d$ H
+D$ H
+U L)
+L;t$
+[]A\A]A^A_
+|$pH
+|$PH
+AVAUATUSH
+H;k t
+H;k u
+t`E1
+C H+C
+C H+C
+cxM9
+t5f.
+<$L9
+cHM9
+<$L9
+[]A\A]A^
+[]A\A]A^
+fff.
+AUATUSH
+ []A\A]A^
+.I;n
+f M+f
+v I+v
+fffff.
+AWAVAUATUSH
+D$ H
+D$pH
+t$xH;
+D$xH
+D$xH
+t$XH;t$`
+T$XH
+T$XH
+H9D$ vSH
+|$(H
+D$xH+D$pH
+T$XH+T$PH
+l$0H
+t$(H
+T$xH
+D$8H+T$pH+D$0H
+|$0H
+|$PH
+t$(H
+L$PH
+|$0H
+|$PH
+[]A\A]A^A_
+AWAVAUATUSH
+D$ H
+D$pH
+t$xH;
+D$xH
+D$xH
+t$XH;t$`
+T$XH
+T$XH
+H9D$ vSH
+|$(H
+D$xH+D$pH
+T$XH+T$PH
+l$0H
+t$(H
+T$xH
+D$8H+T$pH+D$0H
+|$0H
+|$PH
+t$(H
+L$PH
+|$0H
+|$PH
+[]A\A]A^A_
+AWAVAUATUSH
+|$ @
+D$(H
+D$01
+L$ L
+$@E1
+L$0H
+H;D$(
+L$ H
+T$?:P
+H[]A\A]A^A_
+AWAVAUA
+ATUSH
+|$(H)
+D$0H
+D$8A
+L$(O
+L$8H
+$I;\$
+I;\$
+3D:v
+t$ H
+t$OH
+t$ H
+I;\$
+|$$L;|$0
+L$(H
+[]A\A]A^A_
+fffff.
+AUATUH
+e L+e
+M H+M
+([]A\A]A^A_
+AWAVAUATUSH
+|$(@
+T$OH
+T$<H
+T$01
+H9L$
+l$ H9
+t$<H
+t$0H
+t$@H
+t$<H
+t$0H
+\$(1
+l$ H
+T$HH
+T$0H
+H9T$0
+\$(H
+\$O:Z
+X[]A\A]A^A_
+AWAVI
+AUATUSH
+t$7I)
+T$ 1
+T$ H
+I9D$
+T$8H
+t$(H
+t$8H
+t$ H
+L9|$ 
+D$(H
+H[]A\A]A^A_
+AVAUI
+ATUS1
+([]A\A]A^A_
+fffff.
+ATUSH
+[]A\A]
+[]A\A]
+H;2v
+[]A\A]
+,(E1
+[]A\A]
+fff.
+AUATI
+tSH9
+t-I9
+[]A\A]
+4$L9
+<$L9
+ffffff.
+AVAUATUSH
+H9l$
+H9\$
+H9\$
+[]A\A]A^A_
+~FE1
+t=f.
+t=f.
+H;l$
+8H9|$
+t$ H
+H+3H
+4$H)
+l$ H
+d$(L
+l$0H
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+l$ H
+d$(L
+l$0H
+H+3H
+4$H)
+fffff.
+H+3H
+4$H)
+l$ H
+d$(L
+l$0H
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+ffffff.
+ffff.
+AWAVE1
+AUATUH
+[]A\A]A^A_
+fff.
+t$ H
+T$>H
+T$?H
+|$0H
+|$ H
+l$PH
+\$HL
+d$XL
+l$`L
+t$hL
+|$pH
+l$ H
+d$(L
+l$0H
+fff.
+AWAVAUATUH
+D$ H
+L$ E1
+t$(L
+t$(H
+[]A\A]A^A_
+fff.
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+ffffff.
+fff.
+fff.
+fff.
+fffff.
+AUATUH
+t$0L
+|$PH
+L$0H
+|$0H
+[]A\A]A^
+fffff.
+AWAVAUI
+L$`H
+|$`H
+M+<$H
+t$@L
+[]A\A]A^A_
+d$ H
+|$@I
+fff.
+uFA9
+|$@H
+|$ H
+\$XH
+l$`L
+d$hL
+l$pL
+t$xL
+T$/H
+|$ H
+D$ H
+T$/H
+|$ H
+D$ H
+AVAUATUH
+L+#D
+[]A\A]A^A_
+t$@L
+H+(E1
+|$@H
+|$ H
+\$XH
+l$`L
+d$hL
+l$pL
+t$xL
+AWAVAUATI
+I;|$
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+4$H)
+fff.
+fff.
+fff.
+9K w
+fffff.
+fffff.
+AVAUATI
+t f.
+9E(w
+[]A\A]A^
+l$(H
+\$ L
+d$0H
+fff.
+l$ L
+d$(L
+l$0H
+fffff.
+AUATI
+[]A\A]
+o(SH
+_(H9
+|$(H9
+[]A\
+[]A\
+o(SH
+_(H9
+|$(H9
+[]A\
+[]A\
+fffff.
+o(SH
+_(H9
+D$8H
+[]A\
+[]A\
+[]A\
+D$8I
+T$@H
+fffff.
+l$ H
+(AVAUL
+ATUSH
+WHt:1
+([]A\A]A^A_
+fff.
+(AVAUL
+ATUSH
+WHt:1
+([]A\A]A^A_
+fff.
+\$ H
+l$(L
+d$0L
+l$8L
+t$@H
+fffff.
+AWAVAUATUH
+T$0H
+l$8D
+H9T$
+D$(H
+d$8I
+t$ H
+T$8H
+L$(H
+O(E1
+L$ f
+E(H9D$ 
+T$8H9
+H9D$ t
+[]A\A]A^A_
+H+.H
+[]A\
+fff.
+l$ L
+d$(L
+l$0H
+AVAUATI
+H;t$ H
+H9t$ H
+I;\$
+I;\$
+H9t$ H
+I;\$
+I9l$
+I;l$
+I;l$
+h[]A\A]A^A_
+H9t$ H
+H;t$ H
+H9t$ H
+T$8H
+T$XH
+T$PH
+T$@H
+T$HH
+w(H9
+ffffff.
+AUATUSH
+[]A\A]
+$	L9
+[]A\A]
+ffffff.
+l$ L
+t$(L
+|$0H
+fff.
+fff.
+z9u7
+fff.
+fff.
+l$ L
+d$(L
+l$0H
+fffff.
+T$@H
+L$HL
+D$PH
+l$ H)
+L$XH
+D$0H
+|$ H
+fff.
+fff.
+fffff.
+l$ H
+fffff.
+[]A\L
+A]A^
+AVAUI
+[]A\A]A^
+\$(H
+l$0H
+\$(H
+l$0H
+fff.
+fffff.
+AVAUATA
+[]A\A]A^A_
+sAG9$
+[]A\A]A^A_
+AUATI
+[]A\A]A^A_
+fff.
+AWAVI
+ATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+|$(H
+D$'H
+[]A\A]A^A_
+d$`L
+|$0H
+H9D$
+d$xL
+|$`H
+l$xH
+l$HL
+t$@L
+t$pH
+l$(H
+D$(H
+t$pH
+|$`H
+t$@L
+t$pH
+t$@L
+L$(H
+ATUH
+ []A\
+ATUH
+ []A\
+D$ L
+l$ L
+t$(L
+|$0H
+[]A\
+t	[]A\
+[]A\
+E 9P
+ []A\
+\$HH
+l$PL
+d$XL
+l$`H
+W H9
+AVAUATUSH
+H9T$
+L9l$
+L9l$
+[]A\A]A^A_
+HkD$
+H;\$
+ffffff.
+AVAUATA
+t'A;]
+[]A\A]A^
+[]A\A]A^
+fff.
+AUATUSH
+f0H)
+[]A\A]A^
+[]A\A]A^
+AUATUSH
+f0H)
+[]A\A]A^
+[]A\A]A^
+ATUSH
+L$XH
+d$`L
+|$`H
+l$0H
+|$8D
+p[]A\A]A^
+|$8H
+fffff.
+AWAVAUA
+ATUH
+[]A\A]A^A_
+9wXwX
+fffff.
+[]A\A]
+ATUSH
+L$XH
+d$`L
+|$`H
+l$0H
+|$8D
+p[]A\A]A^
+|$8H
+fffff.
+ATUH
+[]A\A]
+ATUH
+[]A\A]
+[]A\A]
+H;2v
+[]A\A]
+,(E1
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+fffff.
+t$ H
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+H+3H
+4$H)
+l$ H
+d$(L
+l$0H
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+fffff.
+AWAVAUATUSH
+l$0L;l$8
+|$PL
+L;l$8
+H;\$
+H;\$
+|$pH
+|$`H
+|$PH
+H;\$
+L;l$8
+l$8H
+\$0H9
+l$0H
+[]A\A]A^A_
+AVAUI
+ATUSH
+t$pH
+{xH)
+H+t$
+|$xH
+|$pH
+[]A\A]A^A_
+|$8H
+|$(H
+D$ p
+|$@H
+|$8H
+|$(H
+D$ p
+D$Pp
+D$Pp
+D$Pp
+fffff.
+{xH)
+D$Pp
+D$0p
+D$0p
+D$Pp
+fff.
+fff.
+fff.
+T$@H
+L$HL
+D$PH
+L$XI
+|$ H
+T$@H
+L$HL
+D$PH
+L$XI
+|$ H
+l$ H
+l$ H
+ATUH
+\$ H
+T$.L
+|$ H
+[]A\
+fffff.
+fffff.
+ffff.
+AUATUSH
+H[]A\A]
+H[]A\A]
+fff.
+AWAVAUATUD
+t9@(
+40@:q
+[]A\A]A^A_
+AWAVAUATUD
+t9@(
+40@:q
+[]A\A]A^A_
+AVAUATUS
+,$I;l$
+I;l$
+t<E1
+fD;`
+[]A\A]A^
+AVAUATUS
+,$I;l$
+I;l$
+t<E1
+fD;`
+[]A\A]A^
+AUATUSH
+@[]A\A]A^
+AVAUI
+ATUSH
+[]A\A]A^A_
+fffff.
+[]A\
+ATUH
+([]A\A]
+fffff.
+fffff.
+G`H+GXH
+GHH+G@
+AUATUH
+]pH9]xt!f.
+H;]xu
+([]A\A]
+AWE1
+AVAUATUSH
+v9fA
+([]A\A]A^A_
+AWAVI
+AUATUH
+t$/H
+D:l$/r
+H9D$ 
+T$ H
++\$(9X }9H
+H;T$
+9Y |
+t$(I
+9p ~.
+T$(;P |`I9
+H;\$
+L;d$
+@:l$/r
+[]A\A]A^A_
+x ;z |
+;z |
+AWAVAUATUSH
+D$?H
+sHH;sP
+s`H;sh
+D$8t
+l$>H
+D$>H
+H[]A\A]A^A_
+l$ H
+D$ p
+D$0A
+fffff.
+AWAVAUATUH
+uxH;
+8[]A\A]A^A_
+,$tC1
+l$ H
+d$(L
+l$0H
+fff.
+fff.
+]pH;]xt
+H;]xu
+]pH;]xt
+H;]xu
+]pH;]xt
+H;]xu
+l$@H
+T$OH
+|$ L
+T$NH
+|$0H
+|$ H
+|$@H
+l$`H
+\$XL
+d$hL
+l$pL
+t$xL
+fffff.
+X E;Y I
+tlH9
+D9C }
+D9C }
+AUATI
+@ A9
+9y |
+XZ[]A\A]A^
+z A9
+} ;x |AH
+;y }aH
+;y |
+[]A\A]
+fffff.
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+ffffff.
+l$ L
+d$(L
+l$0L
+t$8L
+|$@H
+ffffff.
+fffff.
+l$ H
+fffff.
+G +F 
+K$A9
+k 9k(
+c(A9
+[]A\
+K$A9
+k 9k(
+c(A9
+[]A\
+fff.
+fff.
+fff.
+fff.
+fffff.
+fffff.
+fffff.
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+d$ H
+d$ H
+d$ H
+fff.
+d$ H
+fff.
+\$ H
+l$(L
+d$0H
+fffff.
+\$ H
+l$(L
+d$0H
+ffffff.
+AWAVAUATUH
+D$ I
+D$8I
+D$HI
+D$XI
+D$hI
+D$xI
+t.f.
+H;l$
+H9l$
+H+\$
+H;l$
+fffff.
+AWAVAUATI
+[]A\A]A^A_
+l$ L
+d$(L
+l$0H
+fffff.
+L$8H
+D$@L
+L$HH)
+D$ H
+fffff.
+T$@H
+L$HL
+D$PH
+l$ H)
+L$XH
+D$0H
+|$ H
+fffff.
+T$@H
+L$HL
+D$PH)
+D$ 1
+T$@H
+L$HL
+D$PH)
+D$ 1
+T$_H
+t$PH
+T$@H
+twH=`
+t$^H
+[]A\
+l$ H
+d$(L
+l$0H
+fffff.
+l$ H
+d$(L
+l$0H
+fffff.
+T$`H
+L$hL
+D$pI
+L$xH
+T$OH
+|$@A
+T$NH
+|$0H
+l$ H
+D$PH
+|$ H
+fffff.
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+fff.
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+fff.
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+T$@H
+L$HL
+D$PI
+L$XH
+|$ H
+\$ H
+l$(L
+d$0L
+l$8L
+t$@H
+\$ H
+l$(L
+d$0L
+l$8L
+t$@H
+l$ H
+d$(L
+l$0H
+l$ H
+d$(L
+l$0H
+l$ H
+|$ A
+T$/H
+T$.H
+\$0H
+l$8L
+d$@L
+l$HL
+t$PH
+fff.
+l$ H
+|$ A
+T$/H
+T$.H
+\$0H
+l$8L
+d$@L
+l$HL
+t$PH
+fff.
+T$`H
+L$hL
+D$pI
+L$xH
+T$OH
+|$@A
+T$NH
+|$0H
+l$ H
+D$PH
+|$ H
+fffff.
+d$ H
+l$ H
+l$ H
+l$ H
+AVAUATUH
+l$(L
+]A\A]A^
+fffff.
+AWAVI
+AUE1
+D$ H
+I+,$H
+|$ H
+t$0H
+D$0L
+l$@L
+l$8H
+|$0H
+D$ I
+D$ H
+@(H9
+t$(H)
+H9l$(tbH
+H9D$(u
+X[]A\A]A^A_
+t$(H
+X[]A\A]A^A_
+D$ H
+|$0H
+D$ H
+D$ H
+fffff.
+AWAVI
+AUE1
+D$ H
+I+,$H
+|$ H
+t$0H
+D$0L
+l$@L
+l$8H
+|$0H
+D$ I
+D$ H
+@(H9
+t$(H)
+H9l$(tbH
+H9D$(u
+X[]A\A]A^A_
+t$(H
+X[]A\A]A^A_
+D$ H
+|$0H
+D$ H
+D$ H
+fffff.
+fffff.
+AVAUATI
+T$(H
+L$ H
+H;l$
+L;d$
+D$(H
+D$ I
+8[]A\A]A^A_
+|$ A
+fffff.
+AWAVAUI
+L;d$
+([]A\A]A^A_
+AWAVAUI
+([]A\A]A^A_
+AVAUATI
+l$(H
+t$(I
+t$(I
+H;l$(s
+L$(H
+8[]A\A]A^A_
+fffff.
+l$ L
+t$(L
+|$0H
+:--info
+wave audio
+BFSAPHeuristic.cc
+cast-256
+version
+ Index1: 
+    compressed: %s
+data from standard input:
+Data.size(): 
+ Label: 
+checking crc32 checksum...
+--nochecksum
+--license
+--printgmlgraph
+standard input
+FAILED, printing edge:
+capacity
+not calculated
+ FAILED!
+rijndael-192
+xtea
+--passphrase
+executing %s...
+cast-128
+.snd
+] does not contain 
+SampleValues.size(): 
+embedding %s in %s...
+SVALists[
+safer-sk64
+--stegofile
+wake
+tripledes
+%.1f %s
+embed
+wrote extracted data to "%s".
+1.2.3.4
+RIFF
+]->getNumRows(): 
+Enter passphrase: 
+AudioData.h
+Vertex:
+EmbData.cc
+Session.cc
+r%ug%ub%u
+%s %.1f%%
+...but SVALists[
+]->getLabel(): 
+BinaryIO.cc
+in SVALists[
+done
+i%ur%ug%ub%u
+SamplesValue[
+nofb
+vector::_M_insert_aux
+BitString.cc
+warning:
+SampleValue.cc
+JpegFile.cc
+CvrStgFile.cc
+gost
+--debuglevel
+info
+ Name: 
+--quiet
+ncfb
+--dontcompress
+--compress
+AuFile.cc
+MinValue: 
+--verbose
+did not write to file "%s".
+--check
+vector::reserve
+  NULL
+Embedder.cc
+jpeg
+license
+/usr/local/share/locale
+ EValue: 
+safer-sk128
+edges of vertex with label 
+stream
+/dev/urandom
+__nomessage__
+vector::_M_fill_insert
+--embedfile
+MCryptPP.cc
+data
+source sample:
+JpegSampleValue.cc
+0.5.1
+WKSConstructionHeuristic.cc
+rijndael-256
+Matching.cc
+Length: 
+--printstats
+--printgmlvertex
+WAVE
+--extractfile
+creating the graph...
+  label of other vertex: 
+Arguments.cc
+    encrypted: %s
+reading stego file "%s"...
+  embedded file "%s":
+could not allocate memory.
+--encinfo
+serpent
+ are neighbours...
+--goal
+unknown argument "%s".
+the passphrases do not match.
+rijndael-128
+    
+ done
+Edge:
+Selector.cc
+ SelfDegree: 
+WavFile.cc
+ ShortestEdge:
+BmpPaletteSampleValue.cc
+--extract
+<algorithm not found>
+%lu:%lu:%lu:%lu:%lu:%.1f:
+extracting data...
+au audio
+--printgraph
+ Key(hex): 
+twofish
+format
+EncryptionAlgorithm.cc
+Re-Enter passphrase: 
+--force
+--coverfile
+ and 
+Edge.cc
+blowfish
+--help
+OS/2 1.x bitmap
+enigma
+unknown command "%s".
+ Index2: 
+could not open the file "%s".
+DFSAPHeuristic.cc
+Data:
+  weight: 
+--radius
+EdgeIterator.cc
+Graph.cc
+BmpFile.cc
+arcfour
+--version
+SMDConstructionHeuristic.cc
+saferplus
+    size: %s
+, mu-law encoding
+reading cover file "%s"...
+steghide: 
+MHashPP.cc
+encinfo
+ Target Value: 
+, Value: 
+  %s: %s
+--dontembedname
+DFS Augmenting Path Heuristic
+RandomSource.cc
+__no_message_defined__
+SampleValue:
+panama
+SampleOccurences.size(): 
+BFS Augmenting Path Heuristic
+ISO-8859-1
+premature end of file "%s".
+WavPCMSampleValue.cc
+none
+--encryption
+"%s":
+dest sample at position 
+extract
+EncryptionMode.cc
+%.4f:%.1f:
+loki97
+, PCM encoding
+Byte
+ done
+Windows 3.x bitmap
+threeway
+ Weight: 
+MHashKeyGen.cc
+help
+reading secret file "%s"...
+--embed
+could not encrypt data.
+ (%.1f)
+ getDegree(): 
+sample values 
+  embedded data:
+writing stego file "%s"... 
+ SamplePosition: 
+steghide
+steghide version 
+could not decrypt data.
+basic_string::substr
+]->getLabel() == 
+assertion failed in %s at line number %d.
+you cannot use more than one debug command at a time.
+the "%s" argument cannot be used here because the verbosity has already been set.
+the debug level argument can be used only once.
+the "%s" argument must be followed by the debug level.
+the argument "%s" can only be used with the "%s" command.
+the goal argument can be used only once.
+the "%s" argument must be followed by a number between 0 and 100.
+the radius argument can be used only once.
+the "%s" argument must be followed by the neighbourhood radius.
+the argument "%s" can only be used with the "embed" command.
+the compression argument can be used only once.
+the "%s" argument must be followed by the compression level.
+"%s" is not a valid compression level.
+the checksum argument can be used only once.
+the file name embedding argument can be used only once.
+the argument "%s" can only be used with the "%s" and "%s" commands.
+the force argument can be used only once.
+the "%s" argument can be used only once.
+the "%s" argument must be followed by the extract file name.
+the passphrase cannot be pills here.
+the passphrase argument can be used only once.
+the "%s" argument must be followed by the passphrase.
+you have to suppy a filename to the "%s" command.
+you cannot use arguments with the "%s" command.
+the "%s" argument must be followed by the stego file name.
+the cover file name argument can be used only once.
+the "%s" argument must be followed by the cover file name.
+the "%s" argument must be followed by the embed file name.
+the encryption argument can be used only once.
+the "%s" argument must be followed by encryption parameters.
+"%s" is neither an algorithm nor a mode supported by libmcrypt.
+"%s" and "%s" are both libmcrypt algorithms. please specify only one.
+"%s" and "%s" are both libmcrypt modes. please specify only one.
+the encryption algorithm "%s" can not be used with the mode "%s".
+standard input cannot be used for cover data AND data to be embedded.
+if standard input is used, the passphrase must be specified on the command line.
+11MessageBase
+This means that you have found a bug. Please let me (shetzl@chello.at)
+know this if you have a way to reproduce the error.
+Steghide has to exit now. Sorry.
+15AssertionFailed
+assertion failed in %s at line number %d.
+an error occured while writing the au headers to the file "%s".
+an error occured while writing the au headers to standard output.
+an error occured while writing the audio data to the file "%s".
+an error occured while writing the audio data to standard output.
+an error occured while reading the audio data from the file "%s".
+premature end of file "%s" while reading audio data.
+an error occured while reading the audio data from standard input.
+premature end of data from standard input while reading audio data.
+the au file on standard input uses the unkown encoding %d.
+an error occured while reading the au headers from the file "%s".
+premature end of file "%s" while reading au headers.
+an error occured while reading the au headers from standard input.
+premature end of data from standard input while reading au headers.
+the au file "%s" uses the unknown encoding %d.
+6AuFile
+17BinaryOutputError
+13AudioDataImplIL15AUDIOSAMPLETYPE0Eh16AudioSampleValueILS0_0EhEE
+9AudioData
+12CvrStgObject
+16AudioSampleValueIL15AUDIOSAMPLETYPE0EhE
+13AudioDataImplIL15AUDIOSAMPLETYPE1Ea16AudioSampleValueILS0_1EaEE
+16AudioSampleValueIL15AUDIOSAMPLETYPE1EaE
+13AudioDataImplIL15AUDIOSAMPLETYPE2Es16AudioSampleValueILS0_2EsEE
+16AudioSampleValueIL15AUDIOSAMPLETYPE2EsE
+16BinaryInputError
+assertion failed in %s at line number %d.
+14DFSAPHeuristic
+17MatchingAlgorithm
+assertion failed in %s at line number %d.
+14BFSAPHeuristic
+the file "%s" does already exist. overwrite ?
+assertion failed in %s at line number %d.
+could not close the file "%s".
+assertion failed in %s at line number %d.
+error %d while calling zlib's compress2.
+can not uncompress data. compressed data is corrupted.
+error %d while calling zlib's uncompress.
+p>assertion failed in %s at line number %d.
+the bmp data from standard input has a format that is not supported (biBitCount: %d).
+the bitmap data from standard input is compressed which is not supported.
+using a black/white bitmap as cover is very insecure!
+using a 16-color bitmap as cover is very insecure!
+maybe corrupted windows bmp data (Reserved in RGBQUAD is non-zero).
+the bmp file "%s" has a format that is not supported (biBitCount: %d).
+the bitmap data in "%s" is compressed which is not supported.
+the bmp data from standard input has a format that is not supported (bcBitCount: %d).
+the bmp file "%s" has a format that is not supported (bcBitCount: %d).
+the bmp data from standard input has a format that is not supported (biSize: %lu).
+an error occured while reading the bmp headers from the file "%s".
+premature end of file "%s" while reading bmp headers.
+an error occured while reading the bmp headers from standard input.
+premature end of data from standard input while reading bmp headers.
+the bmp file "%s" has a format that is not supported (biSize: %lu).
+an error occured while writing the bmp headers to the file "%s".
+an error occured while writing the bmp headers to standard output.
+an error occured while writing the bitmap data to the file "%s".
+an error occured while writing the bitmap data to standard output.
+maybe corrupted bmp data (padding byte at 0x%lx set to non-zero).
+an error occured while reading the bmp data from the file "%s".
+premature end of file "%s" while reading bmp data.
+an error occured while reading the bmp data from standard input.
+premature end of bmp data from standard input.
+7BmpFile
+assertion failed in %s at line number %d.
+21BmpPaletteSampleValue
+17BmpRGBSampleValue
+14BmpSampleValue
+Weighted Karp&Sipser Construction Heuristic
+assertion failed in %s at line number %d.
+24WKSConstructionHeuristic
+Dynamic Minimum Degree Construction Heuristic
+24DMDConstructionHeuristic
+assertion failed in %s at line number %d.
+10CvrStgFile
+15UnSupFileFormat
+assertion failed in %s at line number %d.
+assertion failed in %s at line number %d.
+assertion failed in %s at line number %d.
+could not extract any data with that passphrase!
+attempting to read an embedding of version %d but steghide %s only supports embeddings of version %d.
+the embedded data has an invalid length.
+assertion failed in %s at line number %d.
+integrity checking of matching data structures failed!
+writing stego file to standard output... 
+reading secret data from standard input...
+reading cover file from standard input...
+the cover file is too short to embed the data.
+integrity checking of graph data structures failed!
+assertion failed in %s at line number %d.
+assertion failed in %s at line number %d.
+reading stego file from standard input...
+the stego data from standard input is too short to contain the embedded data.
+crc32 checksum failed! extracted data is probably corrupted.
+the stego file "%s" is too short to contain the embedded data.
+---- FAILED: check_SampleOccurences_size ----
+-------------------------------------
+assertion failed in %s at line number %d.
+ %lu sample values, %lu vertices, %lu edges
+---- FAILED: check_SVALists_sorted ----
+---- FAILED: check_SVALists_soundness ----
+] is a sv with getEmbeddedValue() == 
+] is a sv that is not a neighbour of 
+---- FAILED: check_SVALists_size ----
+---- FAILED: check_SVALists_uniqueness ----
+---- FAILED: check_SVALists_completeness ----
+----- FAILED: check_SampleValues -----
+--------------------------------------
+uniqueness violated with the following two samples:
+assertion failed in %s at line number %d.
+can not use standard input as source for jpeg files with libjpeg.
+8JpegFile
+assertion failed in %s at line number %d.
+15JpegSampleValue
+could not initialize libmcrypt encryption. see above error messages if any.
+assertion failed in %s at line number %d.
+could not finish libmcrypt encryption.
+could not open libmcrypt module "%s","%s".
+could not initialize libmcrypt decryption. see above error messages if any.
+could not finish libmcrypt decryption.
+assertion failed in %s at line number %d.
+could not initialize libmhash %s algorithm.
+assertion failed in %s at line number %d.
+assertion failed in %s at line number %d.
+FAILED: There is a shortest edge that is not adjacent to its vertex.
+FAILED: There is an edge in MatchingEdges that is adjacent to a vertex marked as exposed.
+FAILED: There is a vertex in ExposedVertices that is marked matched.
+assertion failed in %s at line number %d.
+could not close random input file.
+could not open /dev/urandom, using standard library random numbers instead.
+assertion failed in %s at line number %d.
+11SampleValue
+assertion failed in %s at line number %d.
+Copyright (C) 1999-2003 Stefan Hetzl <shetzl@chello.at>
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+the first argument must be one of the following:
+ embed, --embed          embed data
+ extract, --extract      extract data
+ info, --info            display information about a cover- or stego-file
+   info <filename>       display information about <filename>
+ encinfo, --encinfo      display a list of supported encryption algorithms
+ version, --version      display version information
+ license, --license      display steghide's license
+ help, --help            display this usage information
+embedding options:
+ -ef, --embedfile        select file to be embedded
+   -ef <filename>        embed the file <filename>
+ -cf, --coverfile        select cover-file
+   -cf <filename>        embed into the file <filename>
+ -p, --passphrase        specify passphrase
+   -p <passphrase>       use <passphrase> to embed data
+ -sf, --stegofile        select stego file
+   -sf <filename>        write result to <filename> instead of cover-file
+ -e, --encryption        select encryption parameters
+   -e <a>[<m>]|<m>[<a>]  specify an encryption algorithm and/or mode
+   -e none               do not encrypt data before embedding
+ -z, --compress          compress data before embedding (default)
+   -z <l>                 using level <l> (1 best speed...9 best compression)
+ -Z, --dontcompress      do not compress data before embedding
+ -K, --nochecksum        do not embed crc32 checksum of embedded data
+ -N, --dontembedname     do not embed the name of the original file
+ -f, --force             overwrite existing files
+ -q, --quiet             suppress information messages
+ -v, --verbose           display detailed information
+extracting options:
+ -sf, --stegofile        select stego file
+   -sf <filename>        extract data from <filename>
+ -p, --passphrase        specify passphrase
+   -p <passphrase>       use <passphrase> to extract data
+ -xf, --extractfile      select file name for extracted data
+   -xf <filename>        write the extracted data to <filename>
+ -f, --force             overwrite existing files
+ -q, --quiet             suppress information messages
+ -v, --verbose           display detailed information
+options for the info command:
+ -p, --passphrase        specify passphrase
+   -p <passphrase>       use <passphrase> to get info about embedded data
+To embed emb.txt in cvr.jpg: steghide embed -cf cvr.jpg -ef emb.txt
+To extract embedded data from stg.jpg: steghide extract -sf stg.jpg
+encryption algorithms:
+<algorithm>: <supported modes>...
+Try to get information about embedded data ?
+could not extract any data with that passphrase!
+assertion failed in %s at line number %d.
+please specify a file name for the extracted data (there is no name embedded in the stego file).
+writing extracted data to standard output...
+writing extracted data to "%s"...
+error, exiting. (no error message defined).
+13SteghideError
+could not set terminal attributes.
+could not get terminal attributes.
+8WavChunk
+14WavChunkUnused
+assertion failed in %s at line number %d.
+an error occured while writing the wav headers to the file "%s".
+an error occured while writing the wav headers to standard output.
+an error occured while writing the audio data to the file "%s".
+an error occured while writing the audio data to standard output.
+an error occured while reading the audio data from the file "%s".
+premature end of file "%s" while reading audio data.
+an error occured while reading the audio data from standard input.
+premature end of data from standard input while reading audio data.
+an error occured while reading the wav headers from the file "%s".
+premature end of file "%s" while reading wav headers.
+an error occured while reading the wav headers from standard input.
+premature end of data from standard input while reading wav headers.
+7WavFile
+the wav file from standard input has a format that is not supported (FormatTag: 0x%X).
+the wav file from standard input does not have pcm format (header too long).
+the wav file from standard input is corrupted.
+the wav file "%s" has a format that is not supported (FormatTag: 0x%X).
+the wav file "%s" does not have pcm format (header too long).
+the wav file "%s" is corrupted.
+14WavFormatChunk
+assertion failed in %s at line number %d.
+17WavPCMSampleValue
+Other possible reasons for this error are that the passphrase is wrong
+or that there is no embedded data.
+This feature is not (yet) available. Please let me (shetzl@chello.at) know
+that you want to use this functionality to increase the chance that this will
+be implemented in the near future. Steghide has to exit now. Sorry.
+type "steghide --help" for help.
+the file format of the data from standard input is not supported.
+the file format of the file "%s" is not supported.
+an error occured while writing data to standard output.
+an error occured while writing data to the file "%s".
+premature end of data from standard input.
+an error occured while reading data from standard input.
+an error occured while reading data from the file "%s".
+16CorruptDataError
+19NotImplementedError
+8ArgError
+8Question
+15CriticalWarning
+7Warning
+14VerboseMessage
+7Message
+Static Minimum Degree Construction Heuristic
+assertion failed in %s at line number %d.
+24SMDConstructionHeuristic
+zPLR
+tw7R
+twww
+1a4.D
+yWA6
+Ah`	
+z `Z:4
+$b	\
+4X{p
+ZExD
+@!taz
+<4	]
+f<=7
+^uU%
+r6rR
+#i+q
+KpI|
+F|%_C
+H~"b
+OtNpGj
+&QqH
+E2#H
+=262
+	NX%
+T4UO
+.UP1
+I]"G
+tKn'
+B5B$
+8^6=
+F7_~JsX
+?{sFg>i
+Gt?6
+E<Rb
+ac1" 
+(=W\S
+R-/'
+YpKx
+s+lZ
+laiq
+<1C8
+sK9{
+g,un
+p;xM
+Vd/z7>
+	)D\
+hkt;
+"Q@"
+`Z4#j
+71_t
+!Oa.
+P\T8f
+8'aL*
+G:%)%9G
+](!0
+1Joc81
+V0o>
+>FsX
+x,n.
+c)<(:
+d'g*c$
+lga`
+]~yq
+GC'n
+?r{$i
+5#V/7
+xVbU
+Je*|V<
+[zb=
+R;Q+I
+>m/xUJgJYM
+)>	2
+,n[v[~
+j"eX`
+|WaS
+9)	|7
+4u4z0
+:JMWUhE`ib
+bD29n
+d<e@
+r*>U
+<<w'
+@WQ"o
+[*sXiIc^
+Uc%(
+5]/o
+bxrQ
+gugze
+}(+"
+D{[{
+/yNZj
+}C3K!
+OVAL
+Yjm0
+w+wo
+}3|"}
+<b\o{
+>-$b"
+oWR~
+`i@=
+6kxi
+3]k=
+A/("
+yELAm
+%&5#
+	n n
+q?8/
+JmMk
+gy_QN
+(#DK
++X1,;
+2D-0
+Wyikj
+{P0W
++.H=
+jAn$
+nFms
+WJxRnr|:-/
+\Ay~ann
+wXBU
+~iKA
+[>%'?
+d_+9T
+"q.R
+kFo-
+g3+b9
+sksX
+g^NIML
+k}zn6-
+WFNMi-gs_
+-)	#
+W$_0
+;$+$
+,sE&B~ReNkR
+~VAZ
+ 	m/{
+rT}Z
+(j{4fg[T
+]MZ;
+4s4=a
+a[{u
+('5w
++*We
+HSR]
+:ZX[
+ qAy
+aVA6
+_Frg
+Ajg){
+h^<D
+HsV/wTz
+SJGu
+H]82
+{3F~
+eZ<]4vq
+/ZVO
+r"yHo0a
+h ]T
+DZ1L
+mHKXb
+;+^4
+NH6(E
+1zo\oz
+2`|6
+C+HP
+4jT(jLu{-
+7kPT
+_:,5
+92}nm
+FpbH
+}hPB
+fWle
+LbIs
+I8B|O
+7<jXn
+@- _
+Y,~(J
+__h\
+Awl&)
+*Z2-G-
+c$0V
+R-a]
+5=cY8/1[=
+,v\m
++:,Y
+L#Ub
+U[UM51U@
+{fGB
+'RV`
+,yR0Q
+]@?3G
+sY{vy
+1Z m
+f|WoR
+W9Wd
+<^x]
+H/ (
+}(C'
+~P(V
+i.ZX
+Hk(Jx
+U	F+
+K+Zy
+B7;m.
+)W)Q
++nQc
+R	%Z
+^FOR
+nD6n
+G~PNZ
+MZMN
+^0_2
+4LUMQ
+R>}v5
+")D?/r
+f<zxg
+n,=Y*
+mXgp
+Krir
++gM!(
+W7hm0
+[+;'s
+.jvmikm
+\j\#S1W
+Y#Z4;
+(kLP
+]WXSK
+Rvv~
+T.?:
+oKYX
+f-9@N_|j
+|}HuP
+cbwxmQ
+	qX6
+!/9{M
+#c/'
+*>6N
+_af-
+Vi>5
+i^Q^v
+?D`-.
+>m:E
+%XT0
+8;2p
+s{GwC~
+*/2=
+9UYmi
+7M7]
+#5Sm
+KD._
+NbGK
+2_5We
+zmKl
+4ZSBI
+<QIV<M
+&wNl
+4v7	3
+{[C/y:
+G9?2
+;elK1N
+j&;/
++f&V'
+Jp{`]``
+.1.o
+"JAyQ
+QN(TD
+;npg
+7i9k
+I^e^y
+z1c<O\>+
+4z`z
+Xjon
+88XG
+CkCz|
+2rtR
+OFMr
+eaZ^R
+dkl=
+T>,5+	+
+cWzR
+|LA`A
+LLLO
+S`Q0*H
+y3ief
+>%}P
+4#3x
+HzmJ
++jejQ
+),}m
+h 98
+Qw4u<g
+Gel<
+a m/X
+GK{7
+8:v#
+cB01;i?e<
+u/*7
+T}Py''
+_g~sZ
+wu@R@
+FQ>P
+yy_N
+|_r'
+K.%n
+Gw x
+A[|&=
+zmr2
+Wg^T?
+)fw-
+xhM3
+Qa</
+O\Sh
+fm}P=
+G[Rz
+4+G5vRJ
+*Q	I
+QYjq
+sn3;e
+n#OF
+.j9>
+~qMKg
+'L;L
+"f_L
+2n0V8
+{j"h
+Rp9Z
+$+p6f
+P#`Bz
+Q1pS
+qW	/
+($KPZ`0
+@[`#/C
+_5{h
+qpKbc*Xn]k
+0pf2
+8AA	
+|[nn
+3;V}u
+bW<XSl
+hs/[
+=j5d
+"R-S
+I,ty
+<o{*
+DvQJY	ce
+huIm
+*+c:
+e!d2
+b<{`
+$AwJ
+P;:=
+U_gJ
+vAl]
+7OuT}R
+)}F<
+_-_!
+g#LF
+HUQ{
+P3.@<G
+YE]X$M
+IvAs
+sTgDH%[
+=6qA_
+t(2C
+(,ND
+f8:x 
+\@}O}
+Ykyc
+{pKy:
+z(uu?
+d=%q
+ZyL{	
+@&db
+;=EU7
+qaZ?
+2+F'
+Z~v=?
+OgN\
+9nxs
+#|CQ
+^KN7-
+6U45?
+Wi64
+wAeT2
+|Gq"
+y&7z
+9$7l1t
+@Sxl9{
+$uR/
+X}b7
+4b(	
+0WPA
+xmBXj*
+[Dsb/
+8ZrQ
+a8#R
+"~"9
+Kp;b#
+6!\`w
+`1]v
+QtD<B
+eo$J
+1bl$
+CrR|M
+I]$9
+5Y9 
+F(!:
+%P	]
+0KV%
+BvC6
+E&"~
+IGZ 
+6(FF
+;!Bxmu
+-*"""%R
+!R+Ss
+!e [
+ U6"
+9pnhi
+B#M;D
+qAeA
+t#G"
+flGn
+Q>:r
+W}/w^
+9#=u
+mZ@M
+[vn\6"
+>k.+;;+
+Roc`t]%
+3>6}o
+0,3:jZg
+N|4-z8
+8J!*4
+Ni8/
+UosL
+NVKNZ
+4gZ'
+9C;#E3m[
+94{4
+>30"xi|
+,7>w&K5
+i31c
+]VQx=
+B,0!
+VyVo-
+>-?V
+Wxtx
+gQrl
+<-++
+|AM~r^@
+T5)2
+,\*0
+.dE~:
+qc"l
+zqdn
+wlYN[\|
+F&e6
+M~b'
+Tn~yf}H
+7h{"|
+mfLfu
+:mF7
+oL9]P1D
+w<wI
+)}!c
+Efb97h)c
+R!U[
+UeIID
+R?ed
+fklTg
+Ai -Q2i
+wu3%&!
+vb#=
+.8Yr
+}`rS:/
+MMaY
+kd+L
+^361
+v5'97
+z~ajt
+X;&oC
+V|X5
+EJY0
+:"]`
+.o c
+%d3&
+Ud?oUl
+cZet}8j
+sCkO
+gce;
+T[Hi
+K-#A
+-h)L,+
+BT!+
+!$#t
+']!Q
+G"17
+Y^Zt
+k5jqu
+C!$QN
+{Iq[
+vVSD
+j9i}
+\#Chz
+^9u8
+Q[aa
+b~vu
+7_=x
+HQpZ(
+vjqZv&85;
+xY=0
+6\CG5G
+Qv)B
+XO^bM
+O#Kc
+Af?l
+Ji^*I
+RF!+
+9^|7
+Bp6dw*E
+r#UO)
+PCp<
+kIO:	
+]Bc!
+`);5
+pR C
+Y![N
+YHdQ
+y,~1
+s5xU
+ZPHC
+8luE
+xmqC
+&	SE
+|8vi
+"mI<
+#Z0]o
+t\(t?Wsnl
+`5t>
+Oi9juh|PyO
+o/|E
+rJn'
+svq <o
+ !d	zK
+zKZ+
+/0X'V
+Fd!6
+<x/R
+OgL>
+LzOU
+&>!)
+GK]%'E
+8}B>y
+u2s`
+'\c}
+@#wQ
+&bJ2emr7
+0Zh<Z
+8O*'
+FP;pVzA
+E|@Ja
+eI1OQJ
+LN#pq
+3kgX
+'|(v
+R	3F
+'	2D
+0$\5a
+8rubbjf>zm/
+d8p2d
+ROkW
+$(*AT7
+@k k
+{	Hx
+wJ'A
+(>%~'
+O<L.!`
+VH5@,ld
+U"Kg
+G:D;I
+S6Sv
+9X=.[|
+Ip6f
+	F4C
+i&kEi
+WiW	
+T ?+
+(%81
+S13/
+AZO5/
+LQVI
+MUMs
+y".c
+9X;L7
+2)[).JF
+\U~D2"
+`;`@
+c1k>a
+nD4-
+7}i<
+=8V3j4
+ZT^~
+A>pg
+At":
+Us4|u
+Er\9
+Gso&
+a?anc
+_D0'
+@j A
+l^v\
+g,H&
+TNQ&
+@A`%
+a	Ok
+PR?i
+`#?*
+7y% 
+]4 I
+H~Zv@R&u
+?U8/
+#aAp
+=**6"
+9)zz
+42!b}
+X`^1
+S`w 
+u{4j
+_4Nlx
+GU:D
+:yqq
+Pqj(8
+~?2%
+rF~A
+]F3cN0
+d?jw8
+UqbIh
+yqpYpS
+\%J)
+N.J*.,)*
+.(aJ
+kd"3
+>SQM
+"da2
+%wWw#
+QS"S"V
+eZy]
+x.rp
+&mo;
+7trXy
+yTcZ
+yj/}
+30O,4
+70D~
+M`F 
+d9	{
+u(iL
+BIV&+
+q?w6t
+c^3-
+"5Z]
+y#Q`~b
+hv7_
+r	Kf
+iX?Z'
+mXAF
+`?f;lO
+<P~S
+ ljjE
+^<M,
+W&(}
+#=K/
+j@O)
+~X,W
+i^M~N
+lEYL
+/0ON
+1bWb
+or*N!
+}yLn
+U*+'Y7
+C\N3
+6iv2
+	7p#
+AU8L
+Wo`-
+l"-XF
+#\qT
+RF|F
