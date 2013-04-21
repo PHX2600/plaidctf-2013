@@ -69,9 +69,16 @@ I think 06:00:00:1f:c0 is last line of data incoming and
 06:00:00:00:00 is done.
 
 
+Last 3 lines are.. kinda fucked.
+avrdude even changes them around in its output (though note the pcap dump doesnt match those CHANGED values either!)
+we still have teh first 120 clean-fick the rest for now
+
+We're also throwing away the first 10 bytes. Presumably they have something to do with the address.
+fuck em, figure that avr-objdump doesnt give a fuck where the program is put on disk. Well just start our addresses at 0 and increment 16dec to fake it
+
 Created code_manually for our pcap dump, and for theirs
 
-Jeremy is making a python script to massage it
+Jeremy is making a python script to massage it to a hex file
 
 then I can avr-objdump -s -m atmega88 code_manually_atmega168.hex > code_manually_atmega168.hex.dump
 
