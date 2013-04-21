@@ -1,0 +1,36 @@
+0000: XXXX.82
+0001: XXXX.10
+0002: XXXX.20
+0003: JNG.i1.{'imm': [146], 'reg': []}
+0005: XXXX.22
+0006: XXXX.40
+0007: ORTO.-r.{'imm': [], 'reg': [(2, 0, True, 2433302538)]}
+000d: XXXX.d0
+000e: XXXX.20
+000f: XXXX.10
+0010: SUBA.ix.{'imm': [2895829003], 'reg': []}
+0015: ADCA.ix.{'imm': [187657889], 'reg': []}
+001a: XXXX.dc
+001b: XXXX.da
+001c: NOP..{'imm': [], 'reg': []}
+001d: OR.-r.{'imm': [], 'reg': [(0, 0, True, 2684588558)]}
+0023: XXXX.08
+XXXX: XCHGA.90+r.{'imm': [], 'reg': [4]}
+0025: XXXX.22
+0026: XXXX.80
+0027: XXXX.0a
+0028: PUSHF..{'imm': [], 'reg': []}
+XXXX: ADD.-r.{'imm': [], 'reg': [(4, 0, True, 3208375312)]}
+002f: XXXX.f0
+0030: XXXX.d0
+XXXX: AND.-r.{'imm': [], 'reg': [(7, 7, True, 3206791416)]}
+0037: CLD..{'imm': [], 'reg': []}
+0038: XXXX.82
+0039: XXXX.10
+003a: XXXX.20
+003b: XXXX.3b
+003c: XCHGA.90+r.{'imm': [], 'reg': [1]}
+003d: XXXX.d0
+003e: XXXX.20
+003f: XXXX.10
+Bad assembly, not executing.
